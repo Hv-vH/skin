@@ -1,0 +1,977 @@
+{
+  "subject": "lusi",
+  "moved": {
+    "curated": 75,
+    "glam": 14,
+    "skipped": 49,
+    "missing": 0
+  },
+  "items": [
+    {
+      "slot": 1,
+      "file": "lusi-0001_p3.itc.cn_69541437.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 2,
+      "file": "lusi-0002_c-ssl.duitang.com_1640257a.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 4,
+      "file": "lusi-0004_q7.itc.cn_1a9ff8f4.webp",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 5,
+      "file": "lusi-0005_p7.itc.cn_19803158.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 6,
+      "file": "lusi-0006_n.sinaimg.cn_9b477c00.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 8,
+      "file": "lusi-0008_n.sinaimg.cn_6a150e6e.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 9,
+      "file": "lusi-0009_10wallpaper.com_10bf050e.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 10,
+      "file": "lusi-0010_d.ifengimg.com_fae4ac61.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 11,
+      "file": "lusi-0011_p1.itc.cn_43feb0f2.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 13,
+      "file": "lusi-0013_p0.itc.cn_ce0cecb1.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 14,
+      "file": "lusi-0014_q9.itc.cn_95f9b918.webp",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 16,
+      "file": "lusi-0016_c-ssl.duitang.com_0e3fae3f.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 18,
+      "file": "lusi-0018_img.xingxiaoculture.com_6afd37eb.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 19,
+      "file": "lusi-0019_n.sinaimg.cn_00d1c095.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 21,
+      "file": "lusi-0023_q0.itc.cn_50368201.webp",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 22,
+      "file": "lusi-0024_pic3.zhimg.com_f38c24e6.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 26,
+      "file": "lusi-0028_c-ssl.duitang.com_e4ae7022.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 28,
+      "file": "lusi-0030_p0.qhimg.com_72a41d0f.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 30,
+      "file": "lusi-0032_p9.qhimg.com_d6851b03.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 32,
+      "file": "lusi-0034_n.sinaimg.cn_044e68fe.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 33,
+      "file": "lusi-0035_p3.itc.cn_74fc9f46.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 36,
+      "file": "lusi-0038_q5.itc.cn_87a5ff6c.webp",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 38,
+      "file": "lusi-0040_p8.itc.cn_59fcf453.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 39,
+      "file": "lusi-0041_n.sinaimg.cn_ed418df5.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 40,
+      "file": "lusi-0042_cdn2.ettoday.net_269a9383.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 41,
+      "file": "lusi-0043_mnmx.com.cn_b1b55ef5.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 45,
+      "file": "lusi-0047_woah.my_6cb6c2f7.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 46,
+      "file": "lusi-0048_woah.my_30bf1adc.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 57,
+      "file": "lusi-0059_oimg1.selfimg.com.cn_cb560c87.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 58,
+      "file": "lusi-0060_p0.qhimg.com_a383acc2.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 59,
+      "file": "lusi-0061_q1.itc.cn_fe8b6346.webp",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 61,
+      "file": "lusi-0063_q8.itc.cn_8c8f3aa3.webp",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 63,
+      "file": "lusi-0066_q3.itc.cn_e4eadc6d.webp",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 64,
+      "file": "lusi-0068_n.sinaimg.cn_58a9879b.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 65,
+      "file": "lusi-0069_n.sinaimg.cn_e648806c.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 66,
+      "file": "lusi-0070_n.sinaimg.cn_9787820f.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 67,
+      "file": "lusi-0071_n.sinaimg.cn_32cfeec3.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 68,
+      "file": "lusi-0072_p1.itc.cn_598d31c6.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 69,
+      "file": "lusi-0073_q8.itc.cn_3a554809.webp",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 70,
+      "file": "lusi-0074_p3.itc.cn_0d62952a.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 71,
+      "file": "lusi-0075_n.sinaimg.cn_8eff3bad.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 72,
+      "file": "lusi-0076_q5.itc.cn_0ab938c8.webp",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 75,
+      "file": "lusi-0079_n.sinaimg.cn_5ff1da7e.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 77,
+      "file": "lusi-0081_n.sinaimg.cn_b994ff7e.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 78,
+      "file": "lusi-0082_n.sinaimg.cn_0904e445.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 80,
+      "file": "lusi-0084_inews.gtimg.com_fcd02393.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 81,
+      "file": "lusi-0085_img.win3000.com_7a1b9a16.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 82,
+      "file": "lusi-0086_c-ssl.duitang.com_50cd5a10.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 83,
+      "file": "lusi-0087_inews.gtimg.com_6cf9de0c.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 84,
+      "file": "lusi-0088_file.moyubuluo.com_88e9f6b7.webp",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 85,
+      "file": "lusi-0089_pic4.zhimg.com_08b72a1c.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 86,
+      "file": "lusi-0090_n.sinaimg.cn_c376cbf2.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 90,
+      "file": "lusi-0094_n.sinaimg.cn_47d35e7d.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 92,
+      "file": "lusi-0096_n.sinaimg.cn_478aefe3.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 93,
+      "file": "lusi-0097_c-ssl.duitang.com_3511bd76.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 94,
+      "file": "lusi-0098_n.sinaimg.cn_8bac1063.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 96,
+      "file": "lusi-0100_n.sinaimg.cn_10aed4bb.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 99,
+      "file": "lusi-0103_p9.itc.cn_baa9c2c0.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 100,
+      "file": "lusi-0104_n.sinaimg.cn_5be841f8.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 102,
+      "file": "lusi-0106_n.sinaimg.cn_5f6483bb.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 107,
+      "file": "lusi-0111_n.sinaimg.cn_283bac44.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 108,
+      "file": "lusi-0112_q5.itc.cn_83021eed.webp",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 110,
+      "file": "lusi-0114_p7.itc.cn_d89a6e11.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 111,
+      "file": "lusi-0115_p1.itc.cn_bc76332a.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 112,
+      "file": "lusi-0116_p0.itc.cn_e4532517.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 114,
+      "file": "lusi-0118_p6.itc.cn_d5994ad4.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 116,
+      "file": "lusi-0120_p7.itc.cn_d3db36d7.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 117,
+      "file": "lusi-0121_p7.itc.cn_8d2ae14f.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 118,
+      "file": "lusi-0122_p0.itc.cn_56c780c6.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 120,
+      "file": "lusi-0124_p6.itc.cn_e1e87cb9.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 122,
+      "file": "lusi-0126_q7.itc.cn_fe0328ce.webp",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 125,
+      "file": "lusi-0129_p8.itc.cn_ea26e58e.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 131,
+      "file": "lusi-0135_n.sinaimg.cn_5a9ceed5.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 134,
+      "file": "lusi-0138_p9.itc.cn_ecbefd88.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 138,
+      "file": "lusi-0142_p4.itc.cn_de8d1d16.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 20,
+      "file": "lusi-0020_x0.ifengimg.com_4abc7c0b.jpg",
+      "tier": "glam",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 27,
+      "file": "lusi-0029_p7.itc.cn_ced9ab9b.jpg",
+      "tier": "glam",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 60,
+      "file": "lusi-0062_mnmx.com.cn_e52028ce.jpg",
+      "tier": "glam",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 95,
+      "file": "lusi-0099_p5.itc.cn_e8471243.jpg",
+      "tier": "glam",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 97,
+      "file": "lusi-0101_p9.qhimg.com_1e8319fe.jpg",
+      "tier": "glam",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 103,
+      "file": "lusi-0107_img.alicdn.com_a71b3e52.webp",
+      "tier": "glam",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 104,
+      "file": "lusi-0108_p7.itc.cn_f143ec50.jpg",
+      "tier": "glam",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 119,
+      "file": "lusi-0123_p2.itc.cn_b2f9f057.jpg",
+      "tier": "glam",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 124,
+      "file": "lusi-0128_p0.itc.cn_90caef20.jpg",
+      "tier": "glam",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 128,
+      "file": "lusi-0132_p8.itc.cn_a4f01121.jpg",
+      "tier": "glam",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 130,
+      "file": "lusi-0134_p3.itc.cn_18905a6b.jpg",
+      "tier": "glam",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 135,
+      "file": "lusi-0139_p7.itc.cn_04ffc71b.jpg",
+      "tier": "glam",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 136,
+      "file": "lusi-0140_p1.itc.cn_7b463488.jpg",
+      "tier": "glam",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 137,
+      "file": "lusi-0141_q6.itc.cn_f9842ca4.webp",
+      "tier": "glam",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 3,
+      "file": "lusi-0003_n.sinaimg.cn_c4c38915.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "logo watermark bottom-right"
+    },
+    {
+      "slot": 7,
+      "file": "lusi-0007_up.deskcity.org_39376722.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "eye close-up, unusable as an asset"
+    },
+    {
+      "slot": 12,
+      "file": "lusi-0012_n.sinaimg.cn_080a75ba.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "awkward pose, low editorial value"
+    },
+    {
+      "slot": 15,
+      "file": "lusi-0015_up.deskcity.org_3c6f4251.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "ear close-up, unusable"
+    },
+    {
+      "slot": 17,
+      "file": "lusi-0017_n.sinaimg.cn_ecd3a06a.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "event mic, heavy venue text"
+    },
+    {
+      "slot": 23,
+      "file": "lusi-0025_n.sinaimg.cn_540d5f72.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "crowded stage, other people"
+    },
+    {
+      "slot": 24,
+      "file": "lusi-0026_n.sinaimg.cn_befdc652.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "brand logos (Coca-Cola) fill the frame"
+    },
+    {
+      "slot": 25,
+      "file": "lusi-0027_n.sinaimg.cn_8c16223d.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "stage performance, other people"
+    },
+    {
+      "slot": 29,
+      "file": "lusi-0031_pic1.zhimg.com_12f6dc6e.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 31,
+      "file": "lusi-0033_x0.ifengimg.com_88d1f865.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "identity uncertain and outfit reads as nude-illusion"
+    },
+    {
+      "slot": 34,
+      "file": "lusi-0036_pic1.zhimg.com_5972ba0f.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "collage with text blocks"
+    },
+    {
+      "slot": 35,
+      "file": "lusi-0037_pic1.zhimg.com_0d932016.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "two-panel collage"
+    },
+    {
+      "slot": 37,
+      "file": "lusi-0039_p9.qhimg.com_3f837406.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "brand text overlay"
+    },
+    {
+      "slot": 42,
+      "file": "lusi-0044_img.xingxiaoculture.com_10b89826.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "magazine cover, heavy typography"
+    },
+    {
+      "slot": 43,
+      "file": "lusi-0045_img.alicdn.com_f8606c6f.webp",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "magazine cover, heavy typography"
+    },
+    {
+      "slot": 44,
+      "file": "lusi-0046_img.xingxiaoculture.com_8ba3936d.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "magazine cover, heavy typography"
+    },
+    {
+      "slot": 47,
+      "file": "lusi-0049_img.xingxiaoculture.com_e453fb70.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "collage with typography"
+    },
+    {
+      "slot": 48,
+      "file": "lusi-0050_img.xingxiaoculture.com_c519343c.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "magazine cover, heavy typography"
+    },
+    {
+      "slot": 49,
+      "file": "lusi-0051_img.xingxiaoculture.com_bbce7812.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "magazine cover, heavy typography"
+    },
+    {
+      "slot": 50,
+      "file": "lusi-0052_img.xingxiaoculture.com_07b6eaf4.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "magazine cover, heavy typography"
+    },
+    {
+      "slot": 51,
+      "file": "lusi-0053_img.xingxiaoculture.com_232d2ea3.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "magazine cover, heavy typography"
+    },
+    {
+      "slot": 52,
+      "file": "lusi-0054_img.xingxiaoculture.com_e3101aff.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "magazine cover, heavy typography"
+    },
+    {
+      "slot": 53,
+      "file": "lusi-0055_img.xingxiaoculture.com_17b05f71.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "magazine cover, heavy typography"
+    },
+    {
+      "slot": 54,
+      "file": "lusi-0056_img.xingxiaoculture.com_3f09a35c.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "magazine cover, heavy typography"
+    },
+    {
+      "slot": 55,
+      "file": "lusi-0057_hao6.qhimg.com_6ccda585.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "brand advertisement with layout text"
+    },
+    {
+      "slot": 56,
+      "file": "lusi-0058_hao6.qhimg.com_08476ba1.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "brand advertisement with layout text"
+    },
+    {
+      "slot": 62,
+      "file": "lusi-0064_n.sinaimg.cn_2ac15543.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "brand name baked into the image"
+    },
+    {
+      "slot": 73,
+      "file": "lusi-0077_n.sinaimg.cn_6db9527c.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 74,
+      "file": "lusi-0078_p0.qhimg.com_0c8bff94.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "brand text overlay"
+    },
+    {
+      "slot": 76,
+      "file": "lusi-0080_c-ssl.duitang.com_077f1f06.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "passers-by in frame"
+    },
+    {
+      "slot": 79,
+      "file": "lusi-0083_c-ssl.duitang.com_8db8ec4b.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "phone selfie, cluttered"
+    },
+    {
+      "slot": 87,
+      "file": "lusi-0091_img.win3000.com_58ef80f5.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 88,
+      "file": "lusi-0092_c-ssl.duitang.com_d646ac12.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 89,
+      "file": "lusi-0093_n.sinaimg.cn_4010625c.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "face mask"
+    },
+    {
+      "slot": 91,
+      "file": "lusi-0095_n.sinaimg.cn_12c87fc8.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 98,
+      "file": "lusi-0102_p3.itc.cn_08407784.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "illustrated background, edited composite"
+    },
+    {
+      "slot": 101,
+      "file": "lusi-0105_n.sinaimg.cn_3aa2ebf4.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "low light, heavy noise"
+    },
+    {
+      "slot": 105,
+      "file": "lusi-0109_n.sinaimg.cn_08e493e9.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "face mask"
+    },
+    {
+      "slot": 106,
+      "file": "lusi-0110_p0.itc.cn_2b782968.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "wall and street sign dominate"
+    },
+    {
+      "slot": 109,
+      "file": "lusi-0113_p0.itc.cn_e67ee2a8.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 113,
+      "file": "lusi-0117_p0.itc.cn_f32d952e.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "near-duplicate of 114, weaker framing"
+    },
+    {
+      "slot": 115,
+      "file": "lusi-0119_p6.itc.cn_c6d96085.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 121,
+      "file": "lusi-0125_p8.itc.cn_8703246c.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "near-duplicate of 123"
+    },
+    {
+      "slot": 123,
+      "file": "lusi-0127_p9.itc.cn_2fa45653.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "near-duplicate of 121"
+    },
+    {
+      "slot": 126,
+      "file": "lusi-0130_p0.itc.cn_302f31cf.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "near-duplicate of 127"
+    },
+    {
+      "slot": 127,
+      "file": "lusi-0131_p9.itc.cn_288b8313.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "near-duplicate of 126"
+    },
+    {
+      "slot": 129,
+      "file": "lusi-0133_p6.itc.cn_ba352532.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "near-duplicate of 121"
+    },
+    {
+      "slot": 132,
+      "file": "lusi-0136_p6.itc.cn_8c7bee43.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "motion blur"
+    },
+    {
+      "slot": 133,
+      "file": "lusi-0137_p7.itc.cn_bfa3d067.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "window reflection distracts"
+    }
+  ]
+}

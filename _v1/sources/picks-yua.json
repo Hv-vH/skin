@@ -1,0 +1,1397 @@
+{
+  "subject": "yua",
+  "moved": {
+    "curated": 49,
+    "glam": 17,
+    "skipped": 132,
+    "missing": 0
+  },
+  "items": [
+    {
+      "slot": 1,
+      "file": "yua-0001_i0.hdslb.com_44455b07.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 2,
+      "file": "yua-0001_i0.hdslb.com_67a19753.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 4,
+      "file": "yua-0002_mt316.99img.biz_07499400.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 8,
+      "file": "yua-0003_pic2.zhimg.com_3de97af2.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 11,
+      "file": "yua-0004_p7.itc.cn_a52bc8fc.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 16,
+      "file": "yua-0006_style-w.net_4d769d1c.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 20,
+      "file": "yua-0008_pic4.zhimg.com_a49d4c84.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 23,
+      "file": "yua-0010_p8.itc.cn_755565df.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 31,
+      "file": "yua-0015_image.xb1.com_c8495c39.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 38,
+      "file": "yua-0018_image.xb1.com_760a47de.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 44,
+      "file": "yua-0022_pic1.zhimg.com_f8cc4939.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 45,
+      "file": "yua-0023_image.nima3.com_2fad181e.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 51,
+      "file": "yua-0027_pic3.zhimg.com_67ac041c.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 52,
+      "file": "yua-0028_image.nima3.com_3d00d98b.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 55,
+      "file": "yua-0030_pic2.zhimg.com_8d6f3dcb.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 59,
+      "file": "yua-0032_ihua.xin_18b44678.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 61,
+      "file": "yua-0033_image.nima3.com_dab2ab73.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 62,
+      "file": "yua-0034_fhtupekufh.com_304297bf.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 65,
+      "file": "yua-0036_p5.itc.cn_f71c6b4e.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 69,
+      "file": "yua-0039_i0.hdslb.com_42107b9a.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 70,
+      "file": "yua-0039_images.entamenext.com_da05e4f4.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 71,
+      "file": "yua-0040_mt316.99img.biz_dda5fead.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 72,
+      "file": "yua-0040_picx.zhimg.com_979efdd5.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 75,
+      "file": "yua-0042_i0.hdslb.com_87f8e53b.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 80,
+      "file": "yua-0045_d3lmgsai2rsy7d.cloudfront.net_f2aba982.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 81,
+      "file": "yua-0045_img-mdpr.freetls.fastly.net_f02c6c74.webp",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 84,
+      "file": "yua-0048_img-mdpr.freetls.fastly.net_81efd56b.webp",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 85,
+      "file": "yua-0049_i0.hdslb.com_721bcab9.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 87,
+      "file": "yua-0051_na-beauty.com_3a19b536.webp",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 90,
+      "file": "yua-0057_c-ssl.duitang.com_504b9e17.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 95,
+      "file": "yua-0062_c-ssl.duitang.com_dd1d2553.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 102,
+      "file": "yua-0070_img.xwbo.com_12e3e9d0.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 104,
+      "file": "yua-0072_image.nima3.com_142ef703.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 107,
+      "file": "yua-0075_pica.zhimg.com_f74e2524.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 115,
+      "file": "yua-0084_instagrammernews.com_4716a576.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 123,
+      "file": "yua-0093_i1.hdslb.com_f9ae2b8d.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 127,
+      "file": "yua-0097_n.sinaimg.cn_25ed31f0.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 133,
+      "file": "yua-0104_images.entamenext.com_344b4c87.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 144,
+      "file": "yua-0115_n.sinaimg.cn_9e7694de.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 150,
+      "file": "yua-0121_ignewsimg.s3.ap-northeast-1.wasabisys.com_62026a39.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 153,
+      "file": "yua-0125_img-mdpr.freetls.fastly.net_be9e7481.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 159,
+      "file": "yua-0131_p1.itc.cn_ffe5da4e.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 161,
+      "file": "yua-0133_img-mdpr.freetls.fastly.net_0a695f22.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 165,
+      "file": "yua-0137_images.entamenext.com_2ddc0037.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 170,
+      "file": "yua-0142_image.xb1.com_cf12d71b.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 172,
+      "file": "yua-0144_blog-imgs-167.fc2.com_8ef7526c.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 186,
+      "file": "yua-0160_c-ssl.duitang.com_be783143.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 193,
+      "file": "yua-0169_c-ssl.duitang.com_e2bd6868.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 196,
+      "file": "yua-0172_ignewsimg.s3.ap-northeast-1.wasabisys.com_60bafef9.jpg",
+      "tier": "curated",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 17,
+      "file": "yua-0007_i0.hdslb.com_5914a7de.jpg",
+      "tier": "glam",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 21,
+      "file": "yua-0009_image.xb1.com_33cc5da6.jpg",
+      "tier": "glam",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 26,
+      "file": "yua-0012_pic4.zhimg.com_f44ef42e.jpg",
+      "tier": "glam",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 34,
+      "file": "yua-0016_image.playno1.com_676e2460.jpg",
+      "tier": "glam",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 41,
+      "file": "yua-0020_chuihu.com_05aa0d30.jpg",
+      "tier": "glam",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 49,
+      "file": "yua-0025_p2.itc.cn_70fbf334.jpg",
+      "tier": "glam",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 54,
+      "file": "yua-0029_img-mdpr.freetls.fastly.net_b07263fb.jpg",
+      "tier": "glam",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 68,
+      "file": "yua-0038_nobon.me_8d9bcbc9.jpg",
+      "tier": "glam",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 77,
+      "file": "yua-0043_img-mdpr.freetls.fastly.net_03e647b0.webp",
+      "tier": "glam",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 137,
+      "file": "yua-0108_i0.hdslb.com_29ff8305.jpg",
+      "tier": "glam",
+      "result": "moved",
+      "note": "pink off-shoulder studio, kept in glam instead"
+    },
+    {
+      "slot": 142,
+      "file": "yua-0113_n.sinaimg.cn_ef882c4b.jpg",
+      "tier": "glam",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 148,
+      "file": "yua-0119_img-mdpr.freetls.fastly.net_f4d6165c.jpg",
+      "tier": "glam",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 152,
+      "file": "yua-0124_i0.hdslb.com_45fecaf5.jpg",
+      "tier": "glam",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 167,
+      "file": "yua-0139_i0.hdslb.com_1674dfca.jpg",
+      "tier": "glam",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 176,
+      "file": "yua-0148_ignewsimg.s3.ap-northeast-1.wasabisys.com_2c1cf16c.jpg",
+      "tier": "glam",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 185,
+      "file": "yua-0159_c-ssl.duitang.com_931fbee7.jpg",
+      "tier": "glam",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 190,
+      "file": "yua-0166_p2.itc.cn_138c37b3.jpg",
+      "tier": "glam",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 3,
+      "file": "yua-0001_i0.hdslb.com_edc538c7.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 5,
+      "file": "yua-0002_n.sinaimg.cn_a7643916.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "costume event shot, busy background"
+    },
+    {
+      "slot": 6,
+      "file": "yua-0002_thetv.jp_0f76799d.webp",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "stage backdrop dominates"
+    },
+    {
+      "slot": 7,
+      "file": "yua-0003_i0.hdslb.com_1cbff48c.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "cafe snapshot, phone framing"
+    },
+    {
+      "slot": 9,
+      "file": "yua-0003_ttfhk.com_fa716aac.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "red stage light, subject small"
+    },
+    {
+      "slot": 10,
+      "file": "yua-0004_image.nima3.com_3ce56e0c.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "informal snapshot, low editorial value"
+    },
+    {
+      "slot": 12,
+      "file": "yua-0004_store.tsite.jp_3e5daad9.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "text overlay baked in"
+    },
+    {
+      "slot": 13,
+      "file": "yua-0005_image.kkc3.com_b710c8c2.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "posture reads as snapshot"
+    },
+    {
+      "slot": 14,
+      "file": "yua-0005_image.nima3.com_824e89d5.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "snapshot framing"
+    },
+    {
+      "slot": 15,
+      "file": "yua-0006_image.xb1.com_74b1f954.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "snapshot framing"
+    },
+    {
+      "slot": 18,
+      "file": "yua-0007_style-w.net_2fd7ff72.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "costume event shot"
+    },
+    {
+      "slot": 19,
+      "file": "yua-0008_image.nima3.com_ddb82342.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "low key crop, face partly lost"
+    },
+    {
+      "slot": 22,
+      "file": "yua-0010_images.entamenext.com_2925e922.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "magazine cover with heavy typography"
+    },
+    {
+      "slot": 24,
+      "file": "yua-0011_image.xb1.com_a8da092a.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "snapshot framing"
+    },
+    {
+      "slot": 25,
+      "file": "yua-0012_image.xb1.com_0c47c20d.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "mirror selfie clutter"
+    },
+    {
+      "slot": 27,
+      "file": "yua-0013_image.xb1.com_8b750a9b.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "snapshot framing"
+    },
+    {
+      "slot": 28,
+      "file": "yua-0013_japantu.com_c1c0c944.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "text overlay baked in"
+    },
+    {
+      "slot": 29,
+      "file": "yua-0014_image.xb1.com_1fffd5dc.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "costume shot"
+    },
+    {
+      "slot": 30,
+      "file": "yua-0014_miss.co.jp_38e7aa2d.png",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "near-duplicate of 102, weaker pose"
+    },
+    {
+      "slot": 32,
+      "file": "yua-0015_subcultoka.jp_f627322a.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "prop in frame, snapshot"
+    },
+    {
+      "slot": 33,
+      "file": "yua-0016_image.nima3.com_37a72f1c.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "snapshot framing"
+    },
+    {
+      "slot": 35,
+      "file": "yua-0017_image.xb1.com_06c4f9fc.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "snapshot framing"
+    },
+    {
+      "slot": 36,
+      "file": "yua-0017_nikkansports.com_2ebb00e3.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "tight crop, low resolution"
+    },
+    {
+      "slot": 37,
+      "file": "yua-0018_cdn.qetic.jp_14fed1b6.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "poster with typography"
+    },
+    {
+      "slot": 39,
+      "file": "yua-0019_image.xb1.com_ae5fd0ad.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "snapshot framing"
+    },
+    {
+      "slot": 40,
+      "file": "yua-0019_picx.zhimg.com_47140fd9.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "snapshot framing"
+    },
+    {
+      "slot": 42,
+      "file": "yua-0021_p.potaufeu.asahi.com_0f603584.webp",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "magazine cover with heavy typography"
+    },
+    {
+      "slot": 43,
+      "file": "yua-0022_image.xb1.com_78a78fab.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "snapshot framing"
+    },
+    {
+      "slot": 46,
+      "file": "yua-0024_i0.hdslb.com_5705bd6b.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "near-duplicate of 4"
+    },
+    {
+      "slot": 47,
+      "file": "yua-0024_i0.hdslb.com_de8be1e5.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "street scarf shot, cluttered"
+    },
+    {
+      "slot": 48,
+      "file": "yua-0025_img.faacd.com_0abce296.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "studio snapshot"
+    },
+    {
+      "slot": 50,
+      "file": "yua-0026_image.xb1.com_dbcaa408.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "mirror selfie clutter"
+    },
+    {
+      "slot": 53,
+      "file": "yua-0029_image.xb1.com_1f0c94ec.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "escalator snapshot"
+    },
+    {
+      "slot": 56,
+      "file": "yua-0030_pic3.zhimg.com_af28b770.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "group photo, other people"
+    },
+    {
+      "slot": 57,
+      "file": "yua-0031_image.xb1.com_8bab01b0.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "restaurant snapshot clutter"
+    },
+    {
+      "slot": 58,
+      "file": "yua-0031_pica.zhimg.com_28279ddb.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "snapshot framing"
+    },
+    {
+      "slot": 60,
+      "file": "yua-0033_fempass.today_f708997c.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "text overlay baked in"
+    },
+    {
+      "slot": 63,
+      "file": "yua-0034_japantu.com_e1900390.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "classroom prop layout"
+    },
+    {
+      "slot": 64,
+      "file": "yua-0035_ignewsimg.s3.ap-northeast-1.wasabisys.com_253d6cd7.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "snapshot framing"
+    },
+    {
+      "slot": 66,
+      "file": "yua-0037_pic1.zhimg.com_81a5af8f.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "brand backdrop with logos"
+    },
+    {
+      "slot": 67,
+      "file": "yua-0038_i0.hdslb.com_0e3a5acd.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "snapshot framing"
+    },
+    {
+      "slot": 73,
+      "file": "yua-0041_i0.hdslb.com_1ed43e9d.webp",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "Japanese caption baked in"
+    },
+    {
+      "slot": 74,
+      "file": "yua-0041_i0.hdslb.com_32112c47.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "eating, snapshot"
+    },
+    {
+      "slot": 76,
+      "file": "yua-0042_i0.hdslb.com_e8e84fdc.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "low effort selfie"
+    },
+    {
+      "slot": 78,
+      "file": "yua-0043_wwfanhao.com_42f45b73.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "bath towel setting, outside the allowed line"
+    },
+    {
+      "slot": 79,
+      "file": "yua-0044_images.entamenext.com_fdd11d80.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 82,
+      "file": "yua-0046_japantu.com_d4001557.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 83,
+      "file": "yua-0047_i0.hdslb.com_59f6e93e.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "busy costume backdrop"
+    },
+    {
+      "slot": 86,
+      "file": "yua-0050_i0.hdslb.com_d56dd1e5.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 88,
+      "file": "yua-0052_p2.itc.cn_35462465.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 89,
+      "file": "yua-0056_i0.hdslb.com_a82db462.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "extreme crop, mostly roses"
+    },
+    {
+      "slot": 91,
+      "file": "yua-0058_i1.hdslb.com_7ec6cfab.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 92,
+      "file": "yua-0059_i0.hdslb.com_3c311408.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "school uniform costume, busy"
+    },
+    {
+      "slot": 93,
+      "file": "yua-0060_p7.itc.cn_25991a42.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "snapshot framing"
+    },
+    {
+      "slot": 94,
+      "file": "yua-0061_p0.itc.cn_45579c5a.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "snapshot framing"
+    },
+    {
+      "slot": 96,
+      "file": "yua-0063_i0.hdslb.com_b1b5dff8.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 97,
+      "file": "yua-0064_pic4.zhimg.com_93fee4c8.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 98,
+      "file": "yua-0065_img-mdpr.freetls.fastly.net_02d7ce43.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "festival crowd behind"
+    },
+    {
+      "slot": 99,
+      "file": "yua-0066_img-mdpr.freetls.fastly.net_1f026237.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "event logos in frame"
+    },
+    {
+      "slot": 100,
+      "file": "yua-0068_image.nima3.com_027e2336.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "night street, noisy"
+    },
+    {
+      "slot": 101,
+      "file": "yua-0069_picx.zhimg.com_e4693275.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "social post screenshot with UI"
+    },
+    {
+      "slot": 103,
+      "file": "yua-0071_image.nima3.com_f9c73d38.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "snapshot framing"
+    },
+    {
+      "slot": 105,
+      "file": "yua-0073_image.nima3.com_c466362a.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "snapshot framing"
+    },
+    {
+      "slot": 106,
+      "file": "yua-0074_pic3.zhimg.com_ca2b7889.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "snapshot framing"
+    },
+    {
+      "slot": 108,
+      "file": "yua-0076_ignewsimg.s3.ap-northeast-1.wasabisys.com_f3ffab42.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "near-duplicate of 4"
+    },
+    {
+      "slot": 109,
+      "file": "yua-0077_img-mdpr.freetls.fastly.net_79cbba86.webp",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "party snapshot"
+    },
+    {
+      "slot": 110,
+      "file": "yua-0078_img.ttshow.tw_b10dd206.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "snapshot framing"
+    },
+    {
+      "slot": 111,
+      "file": "yua-0079_img-mdpr.freetls.fastly.net_0461c0bb.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "event frame with props"
+    },
+    {
+      "slot": 112,
+      "file": "yua-0080_nikkansports.com_f2979714.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "microphone in frame"
+    },
+    {
+      "slot": 113,
+      "file": "yua-0082_pic3.zhimg.com_d20a1a66.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "snapshot framing"
+    },
+    {
+      "slot": 114,
+      "file": "yua-0083_image.xb1.com_8fd62bbc.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "stairs snapshot"
+    },
+    {
+      "slot": 116,
+      "file": "yua-0085_pic1.zhimg.com_3743fa00.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "two people in frame"
+    },
+    {
+      "slot": 117,
+      "file": "yua-0086_instagrammernews.com_5196c104.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "near duplicate framing"
+    },
+    {
+      "slot": 118,
+      "file": "yua-0087_bunshun.ismcdn.jp_beb77d21.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "snapshot framing"
+    },
+    {
+      "slot": 119,
+      "file": "yua-0088_i1.hdslb.com_71b764eb.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "large caption baked in"
+    },
+    {
+      "slot": 120,
+      "file": "yua-0089_c-ssl.duitang.com_becc2a81.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "snapshot framing"
+    },
+    {
+      "slot": 121,
+      "file": "yua-0090_img-mdpr.freetls.fastly.net_9e66354b.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "event logos in frame"
+    },
+    {
+      "slot": 122,
+      "file": "yua-0092_pic1.zhimg.com_f6e1de94.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "kimono, near-duplicate of 144"
+    },
+    {
+      "slot": 124,
+      "file": "yua-0094_pic3.zhimg.com_f8016dd0.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "school uniform costume"
+    },
+    {
+      "slot": 125,
+      "file": "yua-0095_pic1.zhimg.com_7cd61e1e.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "two people in frame"
+    },
+    {
+      "slot": 126,
+      "file": "yua-0096_c-ssl.duitang.com_c46c3165.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "snapshot framing"
+    },
+    {
+      "slot": 128,
+      "file": "yua-0098_i2.hdslb.com_64dbd496.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "extreme close-up with glasses"
+    },
+    {
+      "slot": 129,
+      "file": "yua-0099_blogger.googleusercontent.com_2d581672.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "body-only crop"
+    },
+    {
+      "slot": 130,
+      "file": "yua-0100_m.media-amazon.com_597480e9.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "Japanese caption baked in"
+    },
+    {
+      "slot": 131,
+      "file": "yua-0102_image.nima3.com_2ccecaf5.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "street snapshot"
+    },
+    {
+      "slot": 132,
+      "file": "yua-0103_pic2.zhimg.com_364ae844.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "news screenshot with typography"
+    },
+    {
+      "slot": 134,
+      "file": "yua-0105_img-mdpr.freetls.fastly.net_35e31b9e.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "stage lighting"
+    },
+    {
+      "slot": 135,
+      "file": "yua-0106_p3.itc.cn_b4654850.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "snapshot framing"
+    },
+    {
+      "slot": 136,
+      "file": "yua-0107_ignewsimg.s3.ap-northeast-1.wasabisys.com_36b4afd6.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "Christmas event props"
+    },
+    {
+      "slot": 138,
+      "file": "yua-0109_images.entamenext.com_7d67d1eb.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "near-duplicate of 139"
+    },
+    {
+      "slot": 139,
+      "file": "yua-0110_images.entamenext.com_4267065f.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "near-duplicate of 138"
+    },
+    {
+      "slot": 140,
+      "file": "yua-0111_fhtupekufh.com_4939549b.png",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "event poster with typography"
+    },
+    {
+      "slot": 141,
+      "file": "yua-0112_n.sinaimg.cn_08ddce1b.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "odd crop, hand covers face"
+    },
+    {
+      "slot": 143,
+      "file": "yua-0114_n.sinaimg.cn_81816ac7.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "costume event shot"
+    },
+    {
+      "slot": 145,
+      "file": "yua-0116_n.sinaimg.cn_2650ed1c.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "snapshot framing"
+    },
+    {
+      "slot": 146,
+      "file": "yua-0117_img.japhub.com_d1871447.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 147,
+      "file": "yua-0118_pbs.twimg.com_78bb58ee.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "costume event shot"
+    },
+    {
+      "slot": 149,
+      "file": "yua-0120_n.sinaimg.cn_915ff02f.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "kimono, busy backdrop"
+    },
+    {
+      "slot": 151,
+      "file": "yua-0122_image.xb1.com_1f73d9c9.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 154,
+      "file": "yua-0126_img-mdpr.freetls.fastly.net_d76a6169.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "event poster behind"
+    },
+    {
+      "slot": 155,
+      "file": "yua-0127_i0.hdslb.com_0eff1413.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 156,
+      "file": "yua-0128_c-ssl.duitang.com_70bf193b.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "snapshot framing"
+    },
+    {
+      "slot": 157,
+      "file": "yua-0129_c-ssl.duitang.com_848a3ac8.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 158,
+      "file": "yua-0130_c-ssl.duitang.com_082c5430.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "eating, snapshot"
+    },
+    {
+      "slot": 160,
+      "file": "yua-0132_img-mdpr.freetls.fastly.net_188af46b.webp",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 162,
+      "file": "yua-0134_img-mdpr.freetls.fastly.net_1be83c90.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "near-duplicate of 161"
+    },
+    {
+      "slot": 163,
+      "file": "yua-0135_img-mdpr.freetls.fastly.net_69f7b28e.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 164,
+      "file": "yua-0136_nikkansports.com_196f7116.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "event frame with props"
+    },
+    {
+      "slot": 166,
+      "file": "yua-0138_instagrammernews.com_2686faa1.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 168,
+      "file": "yua-0140_c-ssl.duitang.com_243b4e7b.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "eating, snapshot"
+    },
+    {
+      "slot": 169,
+      "file": "yua-0141_p3.itc.cn_d87398cf.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 171,
+      "file": "yua-0143_i0.hdslb.com_8eded8a2.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 173,
+      "file": "yua-0145_image.xb1.com_4a1341b4.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "sunset snapshot"
+    },
+    {
+      "slot": 174,
+      "file": "yua-0146_img-mdpr.freetls.fastly.net_366cf4ab.webp",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 175,
+      "file": "yua-0147_img-mdpr.freetls.fastly.net_acc24a0d.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "tight crop, low detail"
+    },
+    {
+      "slot": 177,
+      "file": "yua-0150_thetv.jp_05a5ecb3.webp",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 178,
+      "file": "yua-0151_i0.hdslb.com_69a7e1c9.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 179,
+      "file": "yua-0152_img-mdpr.freetls.fastly.net_f81f99f5.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 180,
+      "file": "yua-0154_instagrammernews.com_13f459c4.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 181,
+      "file": "yua-0155_pic4.zhimg.com_3f42fa8a.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "snapshot framing"
+    },
+    {
+      "slot": 182,
+      "file": "yua-0156_c-ssl.duitang.com_ca721b49.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 183,
+      "file": "yua-0157_c-ssl.duitang.com_d305fc85.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 184,
+      "file": "yua-0158_c-ssl.duitang.com_a75e333e.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "snapshot framing"
+    },
+    {
+      "slot": 187,
+      "file": "yua-0161_c-ssl.duitang.com_61a3286e.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "snapshot framing"
+    },
+    {
+      "slot": 188,
+      "file": "yua-0162_c-ssl.duitang.com_8ab78951.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 189,
+      "file": "yua-0163_c-ssl.duitang.com_9d5d2413.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 191,
+      "file": "yua-0167_i0.hdslb.com_7c18cbba.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 192,
+      "file": "yua-0168_c-ssl.duitang.com_648d4403.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "Christmas costume"
+    },
+    {
+      "slot": 194,
+      "file": "yua-0170_i0.hdslb.com_cfa8e5c3.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": ""
+    },
+    {
+      "slot": 195,
+      "file": "yua-0171_ignewsimg.s3.ap-northeast-1.wasabisys.com_089f79be.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "car interior selfie"
+    },
+    {
+      "slot": 197,
+      "file": "yua-a0001_gxstzy.edu.cn_7bef9725.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "wrong person (male portrait)"
+    },
+    {
+      "slot": 198,
+      "file": "yua-a0002_gxstzy.edu.cn_9c723c98.jpg",
+      "tier": "skipped",
+      "result": "moved",
+      "note": "wrong person (male portrait)"
+    }
+  ]
+}

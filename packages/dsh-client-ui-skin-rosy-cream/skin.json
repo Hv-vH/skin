@@ -1,0 +1,32 @@
+{
+  "id": "rosy-cream",
+  "name": "雾粉奶油光",
+  "nameEn": "Rosy Cream",
+  "author": "Shinji",
+  "tagline": "赵露思写真 · 雾粉奶油光 · 樱粉饰线",
+  "taglineEn": "Zhao Lusi portraits, creamy rose light and sakura hairlines",
+  "description": "以赵露思写真为素材的浅色暖调皮肤：雾粉奶油光背景、樱粉强调色、侧栏人物竖条、着陆页竖幅主视觉与同脸系图标。",
+  "descriptionEn": "A warm, low-contrast portrait skin built from Zhao Lusi photography: creamy rose light, sakura accent lines, a sidebar portrait and a matching icon family.",
+  "tags": [
+    "portrait",
+    "rose",
+    "cream",
+    "soft",
+    "light",
+    "zhaolusi"
+  ],
+  "accent": "#c9858c",
+  "bodyAttr": "data-dsh-rosy-cream",
+  "dshCompatibility": "0.2.1rc2",
+  "package": "dsh-client-ui-skin-rosy-cream",
+  "wiring": {
+    "id": "ui-skin-rosy-cream",
+    "bundleWired": false
+  },
+  "preview": {
+    "light": "preview/light.webp",
+    "dark": "preview/dark.webp"
+  },
+  "desktopIcon": "assets/icons/rosy-cream.ico",
+  "order": 30
+}

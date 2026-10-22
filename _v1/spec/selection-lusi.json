@@ -1,0 +1,99 @@
+{
+  "subject": "lusi",
+  "auto": false,
+  "note": "Hand-picked after reviewing slot-overview.jpg. focus=[x,y] anchors the crop inside the overflow.",
+  "slots": {
+    "bg-chat-light": {
+      "source": "curated/lusi/lusi-0009_10wallpaper.com_10bf050e.jpg",
+      "focus": [
+        0.5,
+        0.45
+      ]
+    },
+    "bg-chat-dark": {
+      "source": "curated/lusi/lusi-0063_q8.itc.cn_8c8f3aa3.webp",
+      "focus": [
+        0.5,
+        0.34
+      ]
+    },
+    "bg-ambient-blur": {
+      "source": "curated/lusi/lusi-0112_q5.itc.cn_83021eed.webp",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    "hero-portrait": {
+      "source": "curated/lusi/lusi-0086_c-ssl.duitang.com_50cd5a10.jpg",
+      "focus": [
+        0.5,
+        0.28
+      ]
+    },
+    "sidebar-character": {
+      "source": "curated/lusi/lusi-0010_d.ifengimg.com_fae4ac61.jpg",
+      "focus": [
+        0.5,
+        0.2
+      ]
+    },
+    "card-photo": {
+      "source": "curated/lusi/lusi-0060_p0.qhimg.com_a383acc2.jpg",
+      "focus": [
+        0.5,
+        0.35
+      ]
+    },
+    "ribbon-wide": {
+      "source": "curated/lusi/lusi-0106_n.sinaimg.cn_5f6483bb.jpg",
+      "focus": [
+        0.5,
+        0.4
+      ]
+    },
+    "ribbon-strip": {
+      "source": "curated/lusi/lusi-0112_q5.itc.cn_83021eed.webp",
+      "focus": [
+        0.5,
+        0.35
+      ],
+      "blur": 26
+    },
+    "avatar-512": {
+      "source": "curated/lusi/lusi-0001_p3.itc.cn_69541437.jpg",
+      "focus": [
+        0.5,
+        0.2
+      ]
+    },
+    "avatar-192": {
+      "source": "curated/lusi/lusi-0001_p3.itc.cn_69541437.jpg",
+      "focus": [
+        0.5,
+        0.2
+      ]
+    },
+    "favicon-128": {
+      "source": "curated/lusi/lusi-0001_p3.itc.cn_69541437.jpg",
+      "focus": [
+        0.5,
+        0.2
+      ]
+    },
+    "favicon-32": {
+      "source": "curated/lusi/lusi-0001_p3.itc.cn_69541437.jpg",
+      "focus": [
+        0.5,
+        0.2
+      ]
+    },
+    "desktop-icon": {
+      "source": "curated/lusi/lusi-0001_p3.itc.cn_69541437.jpg",
+      "focus": [
+        0.5,
+        0.2
+      ]
+    }
+  }
+}

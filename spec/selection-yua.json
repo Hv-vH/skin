@@ -1,0 +1,100 @@
+{
+  "subject": "yua",
+  "auto": false,
+  "note": "v2 hand re-pick (2026-10-21). Bottom text watermarks are already cut in curated/ sources (files ending __wmcut). focus anchors the crop inside the overflow.",
+  "slots": {
+    "bg-chat-light": {
+      "source": "curated/yua/yua-0034_fhtupekufh.com_304297bf.jpg",
+      "focus": [
+        0.5,
+        0.42
+      ]
+    },
+    "bg-chat-dark": {
+      "source": "curated/yua/yua-0056_i0.hdslb.com_a82db462.jpg",
+      "focus": [
+        0.5,
+        0.45
+      ]
+    },
+    "bg-ambient-blur": {
+      "source": "curated/yua/yua-0034_fhtupekufh.com_304297bf.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    "hero-portrait": {
+      "source": "curated/yua/yua-0001_i0.hdslb.com_67a19753__wmcut.jpg",
+      "focus": [
+        0.5,
+        0.18
+      ]
+    },
+    "sidebar-character": {
+      "source": "curated/yua/yua-0008_pic4.zhimg.com_a49d4c84__wmcut.jpg",
+      "focus": [
+        0.5,
+        0.2
+      ]
+    },
+    "card-photo": {
+      "source": "curated/yua/yua-0014_miss.co.jp_38e7aa2d.png",
+      "focus": [
+        0.5,
+        0.3
+      ]
+    },
+    "ribbon-wide": {
+      "source": "curated/yua/yua-0034_fhtupekufh.com_304297bf.jpg",
+      "focus": [
+        0.5,
+        0.55
+      ],
+      "blur": 8
+    },
+    "ribbon-strip": {
+      "source": "curated/yua/yua-0016_image.playno1.com_676e2460.jpg",
+      "focus": [
+        0.5,
+        0.55
+      ],
+      "blur": 18
+    },
+    "avatar-512": {
+      "source": "curated/yua/yua-0003_pic2.zhimg.com_3de97af2__wmcut.jpg",
+      "focus": [
+        0.5,
+        0.25
+      ]
+    },
+    "avatar-192": {
+      "source": "curated/yua/yua-0003_pic2.zhimg.com_3de97af2__wmcut.jpg",
+      "focus": [
+        0.5,
+        0.25
+      ]
+    },
+    "favicon-128": {
+      "source": "curated/yua/yua-0003_pic2.zhimg.com_3de97af2__wmcut.jpg",
+      "focus": [
+        0.5,
+        0.25
+      ]
+    },
+    "favicon-32": {
+      "source": "curated/yua/yua-0003_pic2.zhimg.com_3de97af2__wmcut.jpg",
+      "focus": [
+        0.5,
+        0.25
+      ]
+    },
+    "desktop-icon": {
+      "source": "curated/yua/yua-0003_pic2.zhimg.com_3de97af2__wmcut.jpg",
+      "focus": [
+        0.5,
+        0.25
+      ]
+    }
+  }
+}

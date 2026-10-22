@@ -1,0 +1,100 @@
+{
+  "subject": "lusi",
+  "auto": false,
+  "note": "v2 hand re-pick (2026-10-21). Bottom text watermarks are already cut in curated/ sources (files ending __wmcut). focus anchors the crop inside the overflow.",
+  "slots": {
+    "bg-chat-light": {
+      "source": "curated/lusi/lusi-0009_10wallpaper.com_10bf050e.jpg",
+      "focus": [
+        0.5,
+        0.45
+      ]
+    },
+    "bg-chat-dark": {
+      "source": "curated/lusi/lusi-0063_q8.itc.cn_8c8f3aa3.webp",
+      "focus": [
+        0.5,
+        0.42
+      ]
+    },
+    "bg-ambient-blur": {
+      "source": "curated/lusi/lusi-0013_p0.itc.cn_ce0cecb1.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    "hero-portrait": {
+      "source": "curated/lusi/lusi-0062_mnmx.com.cn_e52028ce.jpg",
+      "focus": [
+        0.5,
+        0.22
+      ]
+    },
+    "sidebar-character": {
+      "source": "curated/lusi/lusi-0071_n.sinaimg.cn_32cfeec3__wmcut.jpg",
+      "focus": [
+        0.5,
+        0.22
+      ]
+    },
+    "card-photo": {
+      "source": "curated/lusi/lusi-0115_p1.itc.cn_bc76332a__wmcut.jpg",
+      "focus": [
+        0.5,
+        0.3
+      ]
+    },
+    "ribbon-wide": {
+      "source": "curated/lusi/lusi-0062_mnmx.com.cn_e52028ce.jpg",
+      "focus": [
+        0.5,
+        0.58
+      ],
+      "blur": 8
+    },
+    "ribbon-strip": {
+      "source": "curated/lusi/lusi-0134_p3.itc.cn_18905a6b.jpg",
+      "focus": [
+        0.5,
+        0.62
+      ],
+      "blur": 18
+    },
+    "avatar-512": {
+      "source": "curated/lusi/lusi-0001_p3.itc.cn_69541437.jpg",
+      "focus": [
+        0.5,
+        0.22
+      ]
+    },
+    "avatar-192": {
+      "source": "curated/lusi/lusi-0001_p3.itc.cn_69541437.jpg",
+      "focus": [
+        0.5,
+        0.22
+      ]
+    },
+    "favicon-128": {
+      "source": "curated/lusi/lusi-0001_p3.itc.cn_69541437.jpg",
+      "focus": [
+        0.5,
+        0.22
+      ]
+    },
+    "favicon-32": {
+      "source": "curated/lusi/lusi-0001_p3.itc.cn_69541437.jpg",
+      "focus": [
+        0.5,
+        0.22
+      ]
+    },
+    "desktop-icon": {
+      "source": "curated/lusi/lusi-0001_p3.itc.cn_69541437.jpg",
+      "focus": [
+        0.5,
+        0.22
+      ]
+    }
+  }
+}

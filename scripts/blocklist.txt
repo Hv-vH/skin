@@ -1,0 +1,52 @@
+# Hosts and title words rejected before download.
+# One host per line (matches the host and all its subdomains).
+# Lines starting with ! are case-insensitive title/URL substrings.
+
+# --- adult / AV aggregators observed in results ---
+v2ph.com
+555665.xyz
+jdlingyu.com
+mm131.net
+meitulu.com
+win4000.com
+av01.tv
+javbus.com
+javdb.com
+missav.com
+supjav.com
+18av.mm-cg.com
+91porn.com
+sehuatang.net
+4khd.com
+kanav.tv
+9sex.club
+hanime.tv
+nhentai.net
+e-hentai.org
+jmcomic.xyz
+18comic.vip
+
+# --- tile / stock / clip-art sites that pollute celebrity queries ---
+588ku.com
+699pic.com
+pngtree.com
+zhituad.com
+lovepik.com
+ali213.net
+hanyuguoxue.com
+
+# --- title keywords that signal explicit or non-portrait content ---
+!无码
+!無修正
+!無碼
+!流出
+!做爱
+!性交
+!裸体
+!全裸
+!炮图
+!成人
+!av女优
+!av女優
+!种子下载
+!磁力

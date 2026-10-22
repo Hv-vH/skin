@@ -1,0 +1,32 @@
+{
+  "id": "ivory-noir",
+  "name": "象牙黑金",
+  "nameEn": "Ivory Noir",
+  "author": "Shinji",
+  "tagline": "三上悠亚写真 · 象牙黑金 · 冷调胶片",
+  "taglineEn": "Yua Mikami portraits, ivory noir and a film-grain chill",
+  "description": "以三上悠亚写真为素材的暗调皮肤：象牙表面、酒红强调、黑裙竖幅主视觉、冷调胶片质感与同脸系图标。",
+  "descriptionEn": "A dark, film-toned portrait skin built from Yua Mikami photography: ivory surfaces, wine-red accents, a black-dress hero portrait and a matching icon family.",
+  "tags": [
+    "portrait",
+    "ivory",
+    "noir",
+    "film",
+    "dark",
+    "yuamikami"
+  ],
+  "accent": "#8f2436",
+  "bodyAttr": "data-dsh-ivory-noir",
+  "dshCompatibility": "0.2.1rc2",
+  "package": "dsh-client-ui-skin-ivory-noir",
+  "wiring": {
+    "id": "ui-skin-ivory-noir",
+    "bundleWired": false
+  },
+  "preview": {
+    "light": "preview/light.webp",
+    "dark": "preview/dark.webp"
+  },
+  "desktopIcon": "assets/icons/ivory-noir.ico",
+  "order": 31
+}

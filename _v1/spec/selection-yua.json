@@ -1,0 +1,99 @@
+{
+  "subject": "yua",
+  "auto": false,
+  "note": "Hand-picked after reviewing slot-overview.jpg.",
+  "slots": {
+    "bg-chat-light": {
+      "source": "curated/yua/yua-0169_c-ssl.duitang.com_e2bd6868.jpg",
+      "focus": [
+        0.5,
+        0.45
+      ]
+    },
+    "bg-chat-dark": {
+      "source": "curated/yua/yua-0039_images.entamenext.com_da05e4f4.jpg",
+      "focus": [
+        0.5,
+        0.35
+      ]
+    },
+    "bg-ambient-blur": {
+      "source": "curated/yua/yua-0097_n.sinaimg.cn_25ed31f0.jpg",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    "hero-portrait": {
+      "source": "curated/yua/yua-0001_i0.hdslb.com_67a19753.jpg",
+      "focus": [
+        0.5,
+        0.16
+      ]
+    },
+    "sidebar-character": {
+      "source": "curated/yua/yua-0006_style-w.net_4d769d1c.jpg",
+      "focus": [
+        0.5,
+        0.18
+      ]
+    },
+    "card-photo": {
+      "source": "curated/yua/yua-0070_img.xwbo.com_12e3e9d0.jpg",
+      "focus": [
+        0.5,
+        0.36
+      ]
+    },
+    "ribbon-wide": {
+      "source": "curated/yua/yua-0034_fhtupekufh.com_304297bf.jpg",
+      "focus": [
+        0.5,
+        0.12
+      ]
+    },
+    "ribbon-strip": {
+      "source": "curated/yua/yua-0034_fhtupekufh.com_304297bf.jpg",
+      "focus": [
+        0.5,
+        0.12
+      ],
+      "blur": 24
+    },
+    "avatar-512": {
+      "source": "curated/yua/yua-0003_pic2.zhimg.com_3de97af2.jpg",
+      "focus": [
+        0.5,
+        0.22
+      ]
+    },
+    "avatar-192": {
+      "source": "curated/yua/yua-0003_pic2.zhimg.com_3de97af2.jpg",
+      "focus": [
+        0.5,
+        0.22
+      ]
+    },
+    "favicon-128": {
+      "source": "curated/yua/yua-0003_pic2.zhimg.com_3de97af2.jpg",
+      "focus": [
+        0.5,
+        0.22
+      ]
+    },
+    "favicon-32": {
+      "source": "curated/yua/yua-0003_pic2.zhimg.com_3de97af2.jpg",
+      "focus": [
+        0.5,
+        0.22
+      ]
+    },
+    "desktop-icon": {
+      "source": "curated/yua/yua-0003_pic2.zhimg.com_3de97af2.jpg",
+      "focus": [
+        0.5,
+        0.22
+      ]
+    }
+  }
+}

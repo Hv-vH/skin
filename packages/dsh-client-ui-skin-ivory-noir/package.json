@@ -1,0 +1,51 @@
+{
+  "name": "dsh-client-ui-skin-ivory-noir",
+  "description": "A dark, film-toned portrait skin built from Yua Mikami photography: ivory surfaces, wine-red accents, a black-dress hero portrait and a matching icon family.",
+  "icon": "assets/plugin-icon.webp",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "lib/index.js",
+  "exports": {
+    ".": "./lib/index.js",
+    "./client": "./lib/client.js",
+    "./skin.json": "./skin.json",
+    "./locale/*.json": "./locale/*.json",
+    "./package.json": "./package.json"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "inject": [
+        "@deepseek-ai/dsh-client-ui-layout"
+      ],
+      "platform": "web"
+    }
+  },
+  "author": "Shinji",
+  "license": "MIT",
+  "files": [
+    "lib/index.js",
+    "lib/client.js",
+    "cordis.patch.yml",
+    "skin.json",
+    "skin.build.json",
+    "preview",
+    "assets/icons/*.ico",
+    "LICENSE",
+    "README.md",
+    "assets/runtime",
+    "locale/*.json",
+    "assets/plugin-icon.webp"
+  ],
+  "peerDependencies": {
+    "@deepseek-ai/cordis": "^4.0.1",
+    "@deepseek-ai/dsh": ">=0.2.0-rc.2 <0.3.0-0"
+  },
+  "peerDependenciesMeta": {
+    "@deepseek-ai/dsh": {
+      "optional": true
+    }
+  }
+}

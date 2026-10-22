@@ -1,0 +1,2065 @@
+{
+  "subject": "yua",
+  "tier": "raw",
+  "scanned": 225,
+  "kept": 198,
+  "duplicates": 27,
+  "broken": 0,
+  "threshold": 6,
+  "items": [
+    {
+      "file": "yua-0003_pic2.zhimg.com_3de97af2.jpg",
+      "status": "ok",
+      "width": 3600,
+      "height": 4796,
+      "aspect": 0.7506,
+      "dhash": 8204597714047829505,
+      "bytes": 882944
+    },
+    {
+      "file": "yua-0004_store.tsite.jp_3e5daad9.jpg",
+      "status": "ok",
+      "width": 3024,
+      "height": 4242,
+      "aspect": 0.7129,
+      "dhash": 12774826946358011591,
+      "bytes": 1477865
+    },
+    {
+      "file": "yua-0010_images.entamenext.com_2925e922.jpg",
+      "status": "ok",
+      "width": 2866,
+      "height": 4047,
+      "aspect": 0.7082,
+      "dhash": 1745242131132393778,
+      "bytes": 898129
+    },
+    {
+      "file": "yua-0016_image.playno1.com_676e2460.jpg",
+      "status": "ok",
+      "width": 2731,
+      "height": 4096,
+      "aspect": 0.6667,
+      "dhash": 15220317007924901747,
+      "bytes": 878946
+    },
+    {
+      "file": "yua-0004_p7.itc.cn_a52bc8fc.jpg",
+      "status": "ok",
+      "width": 4032,
+      "height": 2688,
+      "aspect": 1.5,
+      "dhash": 12817783218468604124,
+      "bytes": 469834
+    },
+    {
+      "file": "yua-0008_pic4.zhimg.com_a49d4c84.jpg",
+      "status": "ok",
+      "width": 2400,
+      "height": 2912,
+      "aspect": 0.8242,
+      "dhash": 13546705415045638,
+      "bytes": 396032
+    },
+    {
+      "file": "yua-0021_p.potaufeu.asahi.com_0f603584.webp",
+      "status": "ok",
+      "width": 2000,
+      "height": 3000,
+      "aspect": 0.6667,
+      "dhash": 1689918331303937152,
+      "bytes": 492060
+    },
+    {
+      "file": "yua-0044_images.entamenext.com_fdd11d80.jpg",
+      "status": "ok",
+      "width": 1886,
+      "height": 2832,
+      "aspect": 0.666,
+      "dhash": 4123078603920811931,
+      "bytes": 727582
+    },
+    {
+      "file": "yua-0001_i0.hdslb.com_67a19753.jpg",
+      "status": "ok",
+      "width": 1930,
+      "height": 2576,
+      "aspect": 0.7492,
+      "dhash": 8382450773117696468,
+      "bytes": 514314
+    },
+    {
+      "file": "yua-0015_subcultoka.jp_f627322a.jpg",
+      "status": "ok",
+      "width": 1918,
+      "height": 2560,
+      "aspect": 0.7492,
+      "dhash": 4844252614591976343,
+      "bytes": 477917
+    },
+    {
+      "file": "yua-0014_miss.co.jp_38e7aa2d.png",
+      "status": "ok",
+      "width": 2112,
+      "height": 2112,
+      "aspect": 1.0,
+      "dhash": 1396508767446978817,
+      "bytes": 2074236
+    },
+    {
+      "file": "yua-0034_fhtupekufh.com_304297bf.jpg",
+      "status": "ok",
+      "width": 2508,
+      "height": 1672,
+      "aspect": 1.5,
+      "dhash": 3397727424134199071,
+      "bytes": 313192
+    },
+    {
+      "file": "yua-0029_img-mdpr.freetls.fastly.net_b07263fb.jpg",
+      "status": "ok",
+      "width": 1600,
+      "height": 2400,
+      "aspect": 0.6667,
+      "dhash": 11221964754818621102,
+      "bytes": 272048
+    },
+    {
+      "file": "yua-0045_img-mdpr.freetls.fastly.net_f02c6c74.webp",
+      "status": "ok",
+      "width": 1520,
+      "height": 2280,
+      "aspect": 0.6667,
+      "dhash": 3231142945115884120,
+      "bytes": 187994
+    },
+    {
+      "file": "yua-0019_picx.zhimg.com_47140fd9.jpg",
+      "status": "ok",
+      "width": 1600,
+      "height": 2134,
+      "aspect": 0.7498,
+      "dhash": 17832417487036730758,
+      "bytes": 278319
+    },
+    {
+      "file": "yua-0043_wwfanhao.com_42f45b73.jpg",
+      "status": "ok",
+      "width": 1536,
+      "height": 2048,
+      "aspect": 0.75,
+      "dhash": 7234058121830086199,
+      "bytes": 554884
+    },
+    {
+      "file": "yua-0042_i0.hdslb.com_e8e84fdc.jpg",
+      "status": "ok",
+      "width": 1536,
+      "height": 2048,
+      "aspect": 0.75,
+      "dhash": 3522036225110410119,
+      "bytes": 502029
+    },
+    {
+      "file": "yua-0032_ihua.xin_18b44678.jpg",
+      "status": "ok",
+      "width": 1536,
+      "height": 2048,
+      "aspect": 0.75,
+      "dhash": 11359751621981799958,
+      "bytes": 218485
+    },
+    {
+      "file": "yua-0013_japantu.com_c1c0c944.jpg",
+      "status": "ok",
+      "width": 1486,
+      "height": 1920,
+      "aspect": 0.774,
+      "dhash": 11854847013404030498,
+      "bytes": 236016
+    },
+    {
+      "file": "yua-0094_pic3.zhimg.com_f8016dd0.jpg",
+      "status": "ok",
+      "width": 1500,
+      "height": 1876,
+      "aspect": 0.7996,
+      "dhash": 17426921598996991941,
+      "bytes": 263643
+    },
+    {
+      "file": "yua-0012_pic4.zhimg.com_f44ef42e.jpg",
+      "status": "ok",
+      "width": 1402,
+      "height": 2000,
+      "aspect": 0.701,
+      "dhash": 16737143005196941170,
+      "bytes": 610198
+    },
+    {
+      "file": "yua-0003_ttfhk.com_fa716aac.jpg",
+      "status": "ok",
+      "width": 2048,
+      "height": 1366,
+      "aspect": 1.4993,
+      "dhash": 1084544265010349327,
+      "bytes": 330185
+    },
+    {
+      "file": "yua-a0002_gxstzy.edu.cn_9c723c98.jpg",
+      "status": "ok",
+      "width": 1600,
+      "height": 1745,
+      "aspect": 0.9169,
+      "dhash": 12022067228887446448,
+      "bytes": 602643
+    },
+    {
+      "file": "yua-0022_pic1.zhimg.com_f8cc4939.jpg",
+      "status": "ok",
+      "width": 1440,
+      "height": 1920,
+      "aspect": 0.75,
+      "dhash": 6011978306163854440,
+      "bytes": 445743
+    },
+    {
+      "file": "yua-0041_i0.hdslb.com_1ed43e9d.webp",
+      "status": "ok",
+      "width": 1920,
+      "height": 1440,
+      "aspect": 1.3333,
+      "dhash": 13379126530798197020,
+      "bytes": 41928
+    },
+    {
+      "file": "yua-0031_pica.zhimg.com_28279ddb.jpg",
+      "status": "ok",
+      "width": 1440,
+      "height": 1919,
+      "aspect": 0.7504,
+      "dhash": 893063805295714788,
+      "bytes": 278429
+    },
+    {
+      "file": "yua-0027_pic3.zhimg.com_67ac041c.jpg",
+      "status": "ok",
+      "width": 1440,
+      "height": 1918,
+      "aspect": 0.7508,
+      "dhash": 8679831551188324055,
+      "bytes": 265353
+    },
+    {
+      "file": "yua-0020_chuihu.com_05aa0d30.jpg",
+      "status": "ok",
+      "width": 1333,
+      "height": 2000,
+      "aspect": 0.6665,
+      "dhash": 4142448432353882228,
+      "bytes": 640880
+    },
+    {
+      "file": "yua-0033_fempass.today_f708997c.jpg",
+      "status": "ok",
+      "width": 1980,
+      "height": 1320,
+      "aspect": 1.5,
+      "dhash": 11637794434415943969,
+      "bytes": 1720339
+    },
+    {
+      "file": "yua-0046_japantu.com_d4001557.jpg",
+      "status": "ok",
+      "width": 1357,
+      "height": 1920,
+      "aspect": 0.7068,
+      "dhash": 9354369111038829347,
+      "bytes": 461908
+    },
+    {
+      "file": "yua-0030_pic2.zhimg.com_8d6f3dcb.jpg",
+      "status": "ok",
+      "width": 1440,
+      "height": 1800,
+      "aspect": 0.8,
+      "dhash": 3633615665603184260,
+      "bytes": 409122
+    },
+    {
+      "file": "yua-0025_p2.itc.cn_70fbf334.jpg",
+      "status": "ok",
+      "width": 1440,
+      "height": 1800,
+      "aspect": 0.8,
+      "dhash": 5535586333107577459,
+      "bytes": 301881
+    },
+    {
+      "file": "yua-0002_mt316.99img.biz_07499400.jpg",
+      "status": "ok",
+      "width": 1350,
+      "height": 1920,
+      "aspect": 0.7031,
+      "dhash": 17422382720375644183,
+      "bytes": 231161
+    },
+    {
+      "file": "yua-0036_p5.itc.cn_f71c6b4e.jpg",
+      "status": "ok",
+      "width": 1440,
+      "height": 1800,
+      "aspect": 0.8,
+      "dhash": 1095337003111297750,
+      "bytes": 230612
+    },
+    {
+      "file": "yua-a0001_gxstzy.edu.cn_7bef9725.jpg",
+      "status": "ok",
+      "width": 1440,
+      "height": 1800,
+      "aspect": 0.8,
+      "dhash": 8112872112350039907,
+      "bytes": 228253
+    },
+    {
+      "file": "yua-0111_fhtupekufh.com_4939549b.png",
+      "status": "ok",
+      "width": 2282,
+      "height": 1134,
+      "aspect": 2.0123,
+      "dhash": 868264145091389126,
+      "bytes": 1566979
+    },
+    {
+      "file": "yua-0006_style-w.net_4d769d1c.jpg",
+      "status": "ok",
+      "width": 1320,
+      "height": 1920,
+      "aspect": 0.6875,
+      "dhash": 8698835071703566793,
+      "bytes": 632114
+    },
+    {
+      "file": "yua-0038_nobon.me_8d9bcbc9.jpg",
+      "status": "ok",
+      "width": 1230,
+      "height": 2048,
+      "aspect": 0.6006,
+      "dhash": 7090473745714567366,
+      "bytes": 267147
+    },
+    {
+      "file": "yua-0112_n.sinaimg.cn_08ddce1b.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 2299,
+      "aspect": 0.4698,
+      "dhash": 11986502508445144780,
+      "bytes": 285151
+    },
+    {
+      "file": "yua-0002_thetv.jp_0f76799d.webp",
+      "status": "ok",
+      "width": 1284,
+      "height": 1926,
+      "aspect": 0.6667,
+      "dhash": 12866377924047476530,
+      "bytes": 74710
+    },
+    {
+      "file": "yua-0024_i0.hdslb.com_5705bd6b.jpg",
+      "status": "ok",
+      "width": 1280,
+      "height": 1920,
+      "aspect": 0.6667,
+      "dhash": 7461495425910216398,
+      "bytes": 1548348
+    },
+    {
+      "file": "yua-0001_i0.hdslb.com_edc538c7.jpg",
+      "status": "ok",
+      "width": 1280,
+      "height": 1920,
+      "aspect": 0.6667,
+      "dhash": 17574153838121602851,
+      "bytes": 1358698
+    },
+    {
+      "file": "yua-0007_style-w.net_2fd7ff72.jpg",
+      "status": "ok",
+      "width": 1280,
+      "height": 1920,
+      "aspect": 0.6667,
+      "dhash": 10558278428246091564,
+      "bytes": 360759
+    },
+    {
+      "file": "yua-0040_mt316.99img.biz_dda5fead.jpg",
+      "status": "ok",
+      "width": 1280,
+      "height": 1920,
+      "aspect": 0.6667,
+      "dhash": 2898176778655041819,
+      "bytes": 304094
+    },
+    {
+      "file": "yua-0018_cdn.qetic.jp_14fed1b6.jpg",
+      "status": "ok",
+      "width": 1920,
+      "height": 1280,
+      "aspect": 1.5,
+      "dhash": 3905414283594738075,
+      "bytes": 231352
+    },
+    {
+      "file": "yua-0005_image.kkc3.com_b710c8c2.jpg",
+      "status": "ok",
+      "width": 1278,
+      "height": 1920,
+      "aspect": 0.6656,
+      "dhash": 7885093598441213381,
+      "bytes": 267142
+    },
+    {
+      "file": "yua-0039_images.entamenext.com_da05e4f4.jpg",
+      "status": "ok",
+      "width": 1800,
+      "height": 1200,
+      "aspect": 1.5,
+      "dhash": 7017544255301539030,
+      "bytes": 357857
+    },
+    {
+      "file": "yua-0056_i0.hdslb.com_a82db462.jpg",
+      "status": "ok",
+      "width": 1920,
+      "height": 1080,
+      "aspect": 1.7778,
+      "dhash": 3537869055279877613,
+      "bytes": 1244811
+    },
+    {
+      "file": "yua-0082_pic3.zhimg.com_d20a1a66.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1920,
+      "aspect": 0.5625,
+      "dhash": 1113455483055543954,
+      "bytes": 106223
+    },
+    {
+      "file": "yua-0076_ignewsimg.s3.ap-northeast-1.wasabisys.com_f3ffab42.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1919,
+      "aspect": 0.5628,
+      "dhash": 10876997459282834187,
+      "bytes": 72735
+    },
+    {
+      "file": "yua-0017_nikkansports.com_2ebb00e3.jpg",
+      "status": "ok",
+      "width": 1300,
+      "height": 1498,
+      "aspect": 0.8678,
+      "dhash": 8528301049866209741,
+      "bytes": 233064
+    },
+    {
+      "file": "yua-0150_thetv.jp_05a5ecb3.webp",
+      "status": "ok",
+      "width": 1170,
+      "height": 1620,
+      "aspect": 0.7222,
+      "dhash": 974779682069967896,
+      "bytes": 138116
+    },
+    {
+      "file": "yua-0139_i0.hdslb.com_1674dfca.jpg",
+      "status": "ok",
+      "width": 1192,
+      "height": 1589,
+      "aspect": 0.7502,
+      "dhash": 15614229052801050985,
+      "bytes": 116477
+    },
+    {
+      "file": "yua-0167_i0.hdslb.com_7c18cbba.jpg",
+      "status": "ok",
+      "width": 1728,
+      "height": 1080,
+      "aspect": 1.6,
+      "dhash": 9702062869586318925,
+      "bytes": 339329
+    },
+    {
+      "file": "yua-0088_i1.hdslb.com_71b764eb.jpg",
+      "status": "ok",
+      "width": 1728,
+      "height": 1080,
+      "aspect": 1.6,
+      "dhash": 16885212255631041897,
+      "bytes": 287572
+    },
+    {
+      "file": "yua-0098_i2.hdslb.com_64dbd496.jpg",
+      "status": "ok",
+      "width": 1728,
+      "height": 1080,
+      "aspect": 1.6,
+      "dhash": 10634040591706069401,
+      "bytes": 227769
+    },
+    {
+      "file": "yua-0093_i1.hdslb.com_f9ae2b8d.jpg",
+      "status": "ok",
+      "width": 1728,
+      "height": 1080,
+      "aspect": 1.6,
+      "dhash": 6446186210293987761,
+      "bytes": 210814
+    },
+    {
+      "file": "yua-0058_i1.hdslb.com_7ec6cfab.jpg",
+      "status": "ok",
+      "width": 1728,
+      "height": 1080,
+      "aspect": 1.6,
+      "dhash": 6691448369464528094,
+      "bytes": 140627
+    },
+    {
+      "file": "yua-0109_images.entamenext.com_7d67d1eb.jpg",
+      "status": "ok",
+      "width": 1178,
+      "height": 1570,
+      "aspect": 0.7503,
+      "dhash": 7461355285342112783,
+      "bytes": 201712
+    },
+    {
+      "file": "yua-0104_images.entamenext.com_344b4c87.jpg",
+      "status": "ok",
+      "width": 1178,
+      "height": 1570,
+      "aspect": 0.7503,
+      "dhash": 15791325833879015052,
+      "bytes": 193024
+    },
+    {
+      "file": "yua-0110_images.entamenext.com_4267065f.jpg",
+      "status": "ok",
+      "width": 1178,
+      "height": 1570,
+      "aspect": 0.7503,
+      "dhash": 8154627069017889951,
+      "bytes": 177931
+    },
+    {
+      "file": "yua-0144_blog-imgs-167.fc2.com_8ef7526c.jpg",
+      "status": "ok",
+      "width": 1112,
+      "height": 1600,
+      "aspect": 0.695,
+      "dhash": 2558427588088437278,
+      "bytes": 297417
+    },
+    {
+      "file": "yua-0034_japantu.com_e1900390.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1620,
+      "aspect": 0.6667,
+      "dhash": 878803110693230745,
+      "bytes": 680790
+    },
+    {
+      "file": "yua-0099_blogger.googleusercontent.com_2d581672.jpg",
+      "status": "ok",
+      "width": 1091,
+      "height": 1600,
+      "aspect": 0.6819,
+      "dhash": 9367640636640101426,
+      "bytes": 230457
+    },
+    {
+      "file": "yua-0155_pic4.zhimg.com_3f42fa8a.jpg",
+      "status": "ok",
+      "width": 1194,
+      "height": 1447,
+      "aspect": 0.8252,
+      "dhash": 16281554859662530801,
+      "bytes": 183614
+    },
+    {
+      "file": "yua-0137_images.entamenext.com_2ddc0037.jpg",
+      "status": "ok",
+      "width": 1179,
+      "height": 1457,
+      "aspect": 0.8092,
+      "dhash": 74604128602099467,
+      "bytes": 176752
+    },
+    {
+      "file": "yua-0108_i0.hdslb.com_29ff8305.jpg",
+      "status": "ok",
+      "width": 1170,
+      "height": 1460,
+      "aspect": 0.8014,
+      "dhash": 3270686795594387672,
+      "bytes": 210270
+    },
+    {
+      "file": "yua-0105_img-mdpr.freetls.fastly.net_35e31b9e.jpg",
+      "status": "ok",
+      "width": 1065,
+      "height": 1600,
+      "aspect": 0.6656,
+      "dhash": 10218332328364264267,
+      "bytes": 228551
+    },
+    {
+      "file": "yua-0066_img-mdpr.freetls.fastly.net_1f026237.jpg",
+      "status": "ok",
+      "width": 1065,
+      "height": 1600,
+      "aspect": 0.6656,
+      "dhash": 3691663500102112467,
+      "bytes": 222989
+    },
+    {
+      "file": "yua-0135_img-mdpr.freetls.fastly.net_69f7b28e.jpg",
+      "status": "ok",
+      "width": 1600,
+      "height": 1065,
+      "aspect": 1.5023,
+      "dhash": 15832468166287689255,
+      "bytes": 219543
+    },
+    {
+      "file": "yua-0126_img-mdpr.freetls.fastly.net_d76a6169.jpg",
+      "status": "ok",
+      "width": 1065,
+      "height": 1600,
+      "aspect": 0.6656,
+      "dhash": 1818456357987436232,
+      "bytes": 218927
+    },
+    {
+      "file": "yua-0090_img-mdpr.freetls.fastly.net_9e66354b.jpg",
+      "status": "ok",
+      "width": 1065,
+      "height": 1600,
+      "aspect": 0.6656,
+      "dhash": 8761864991643106291,
+      "bytes": 206126
+    },
+    {
+      "file": "yua-0147_img-mdpr.freetls.fastly.net_acc24a0d.jpg",
+      "status": "ok",
+      "width": 1600,
+      "height": 1065,
+      "aspect": 1.5023,
+      "dhash": 7237385257680581425,
+      "bytes": 185521
+    },
+    {
+      "file": "yua-0134_img-mdpr.freetls.fastly.net_1be83c90.jpg",
+      "status": "ok",
+      "width": 1065,
+      "height": 1600,
+      "aspect": 0.6656,
+      "dhash": 3470352317458379571,
+      "bytes": 178228
+    },
+    {
+      "file": "yua-0125_img-mdpr.freetls.fastly.net_be9e7481.jpg",
+      "status": "ok",
+      "width": 1600,
+      "height": 1065,
+      "aspect": 1.5023,
+      "dhash": 3653231202987554609,
+      "bytes": 178141
+    },
+    {
+      "file": "yua-0065_img-mdpr.freetls.fastly.net_02d7ce43.jpg",
+      "status": "ok",
+      "width": 1600,
+      "height": 1065,
+      "aspect": 1.5023,
+      "dhash": 4643238751242236815,
+      "bytes": 173419
+    },
+    {
+      "file": "yua-0133_img-mdpr.freetls.fastly.net_0a695f22.jpg",
+      "status": "ok",
+      "width": 1065,
+      "height": 1600,
+      "aspect": 0.6656,
+      "dhash": 2804771207505237263,
+      "bytes": 172376
+    },
+    {
+      "file": "yua-0079_img-mdpr.freetls.fastly.net_0461c0bb.jpg",
+      "status": "ok",
+      "width": 1600,
+      "height": 1065,
+      "aspect": 1.5023,
+      "dhash": 7381797167854610086,
+      "bytes": 161486
+    },
+    {
+      "file": "yua-0119_img-mdpr.freetls.fastly.net_f4d6165c.jpg",
+      "status": "ok",
+      "width": 1600,
+      "height": 1065,
+      "aspect": 1.5023,
+      "dhash": 5605235020064968013,
+      "bytes": 141666
+    },
+    {
+      "file": "yua-0132_img-mdpr.freetls.fastly.net_188af46b.webp",
+      "status": "ok",
+      "width": 1065,
+      "height": 1600,
+      "aspect": 0.6656,
+      "dhash": 6545081895302699406,
+      "bytes": 91694
+    },
+    {
+      "file": "yua-0043_img-mdpr.freetls.fastly.net_03e647b0.webp",
+      "status": "ok",
+      "width": 1065,
+      "height": 1600,
+      "aspect": 0.6656,
+      "dhash": 1516884624869332630,
+      "bytes": 77822
+    },
+    {
+      "file": "yua-0152_img-mdpr.freetls.fastly.net_f81f99f5.jpg",
+      "status": "ok",
+      "width": 1065,
+      "height": 1594,
+      "aspect": 0.6681,
+      "dhash": 10995636727153506332,
+      "bytes": 119679
+    },
+    {
+      "file": "yua-0124_i0.hdslb.com_45fecaf5.jpg",
+      "status": "ok",
+      "width": 1128,
+      "height": 1504,
+      "aspect": 0.75,
+      "dhash": 18444902223608122246,
+      "bytes": 1153502
+    },
+    {
+      "file": "yua-0059_i0.hdslb.com_3c311408.jpg",
+      "status": "ok",
+      "width": 1128,
+      "height": 1504,
+      "aspect": 0.75,
+      "dhash": 7441029167847090371,
+      "bytes": 1084631
+    },
+    {
+      "file": "yua-0127_i0.hdslb.com_0eff1413.jpg",
+      "status": "ok",
+      "width": 1504,
+      "height": 1128,
+      "aspect": 1.3333,
+      "dhash": 14177854762235766455,
+      "bytes": 999735
+    },
+    {
+      "file": "yua-0063_i0.hdslb.com_b1b5dff8.jpg",
+      "status": "ok",
+      "width": 1128,
+      "height": 1504,
+      "aspect": 0.75,
+      "dhash": 8964082806484151883,
+      "bytes": 977378
+    },
+    {
+      "file": "yua-0062_c-ssl.duitang.com_dd1d2553.jpg",
+      "status": "ok",
+      "width": 1128,
+      "height": 1504,
+      "aspect": 0.75,
+      "dhash": 7622794109205427123,
+      "bytes": 371379
+    },
+    {
+      "file": "yua-0161_c-ssl.duitang.com_61a3286e.jpg",
+      "status": "ok",
+      "width": 1128,
+      "height": 1504,
+      "aspect": 0.75,
+      "dhash": 951496251721028371,
+      "bytes": 359772
+    },
+    {
+      "file": "yua-0038_i0.hdslb.com_0e3a5acd.jpg",
+      "status": "ok",
+      "width": 1128,
+      "height": 1504,
+      "aspect": 0.75,
+      "dhash": 950853160630805652,
+      "bytes": 355844
+    },
+    {
+      "file": "yua-0057_c-ssl.duitang.com_504b9e17.jpg",
+      "status": "ok",
+      "width": 1128,
+      "height": 1504,
+      "aspect": 0.75,
+      "dhash": 2417975491829685145,
+      "bytes": 343195
+    },
+    {
+      "file": "yua-0089_c-ssl.duitang.com_becc2a81.jpg",
+      "status": "ok",
+      "width": 1128,
+      "height": 1504,
+      "aspect": 0.75,
+      "dhash": 16688242951377593638,
+      "bytes": 341608
+    },
+    {
+      "file": "yua-0162_c-ssl.duitang.com_8ab78951.jpg",
+      "status": "ok",
+      "width": 1128,
+      "height": 1504,
+      "aspect": 0.75,
+      "dhash": 14407545094874541308,
+      "bytes": 328116
+    },
+    {
+      "file": "yua-0130_c-ssl.duitang.com_082c5430.jpg",
+      "status": "ok",
+      "width": 1128,
+      "height": 1504,
+      "aspect": 0.75,
+      "dhash": 11103705227858508193,
+      "bytes": 313656
+    },
+    {
+      "file": "yua-0140_c-ssl.duitang.com_243b4e7b.jpg",
+      "status": "ok",
+      "width": 1128,
+      "height": 1504,
+      "aspect": 0.75,
+      "dhash": 4121614885446814927,
+      "bytes": 309108
+    },
+    {
+      "file": "yua-0158_c-ssl.duitang.com_a75e333e.jpg",
+      "status": "ok",
+      "width": 1128,
+      "height": 1504,
+      "aspect": 0.75,
+      "dhash": 8175412962401266701,
+      "bytes": 300499
+    },
+    {
+      "file": "yua-0157_c-ssl.duitang.com_d305fc85.jpg",
+      "status": "ok",
+      "width": 1128,
+      "height": 1504,
+      "aspect": 0.75,
+      "dhash": 4086500572307178609,
+      "bytes": 294646
+    },
+    {
+      "file": "yua-0160_c-ssl.duitang.com_be783143.jpg",
+      "status": "ok",
+      "width": 1128,
+      "height": 1504,
+      "aspect": 0.75,
+      "dhash": 12656722974861704310,
+      "bytes": 293271
+    },
+    {
+      "file": "yua-0096_c-ssl.duitang.com_c46c3165.jpg",
+      "status": "ok",
+      "width": 1128,
+      "height": 1504,
+      "aspect": 0.75,
+      "dhash": 8696512588840388131,
+      "bytes": 269685
+    },
+    {
+      "file": "yua-0169_c-ssl.duitang.com_e2bd6868.jpg",
+      "status": "ok",
+      "width": 1504,
+      "height": 1128,
+      "aspect": 1.3333,
+      "dhash": 8676585357099715724,
+      "bytes": 262629
+    },
+    {
+      "file": "yua-0129_c-ssl.duitang.com_848a3ac8.jpg",
+      "status": "ok",
+      "width": 1128,
+      "height": 1504,
+      "aspect": 0.75,
+      "dhash": 3491667182436472476,
+      "bytes": 254127
+    },
+    {
+      "file": "yua-0118_pbs.twimg.com_78bb58ee.jpg",
+      "status": "ok",
+      "width": 1128,
+      "height": 1504,
+      "aspect": 0.75,
+      "dhash": 3972852500625378378,
+      "bytes": 252253
+    },
+    {
+      "file": "yua-0117_img.japhub.com_d1871447.jpg",
+      "status": "ok",
+      "width": 1128,
+      "height": 1504,
+      "aspect": 0.75,
+      "dhash": 9111743345105685614,
+      "bytes": 250095
+    },
+    {
+      "file": "yua-0128_c-ssl.duitang.com_70bf193b.jpg",
+      "status": "ok",
+      "width": 1128,
+      "height": 1504,
+      "aspect": 0.75,
+      "dhash": 14525389233462209691,
+      "bytes": 222224
+    },
+    {
+      "file": "yua-0074_pic3.zhimg.com_ca2b7889.jpg",
+      "status": "ok",
+      "width": 1128,
+      "height": 1504,
+      "aspect": 0.75,
+      "dhash": 13890164327590783384,
+      "bytes": 172890
+    },
+    {
+      "file": "yua-0030_pic3.zhimg.com_af28b770.jpg",
+      "status": "ok",
+      "width": 1108,
+      "height": 1478,
+      "aspect": 0.7497,
+      "dhash": 15121369979396810342,
+      "bytes": 244589
+    },
+    {
+      "file": "yua-0075_pica.zhimg.com_f74e2524.jpg",
+      "status": "ok",
+      "width": 1128,
+      "height": 1445,
+      "aspect": 0.7806,
+      "dhash": 1833497646973740648,
+      "bytes": 386628
+    },
+    {
+      "file": "yua-0163_c-ssl.duitang.com_9d5d2413.jpg",
+      "status": "ok",
+      "width": 1098,
+      "height": 1462,
+      "aspect": 0.751,
+      "dhash": 3156421670999016908,
+      "bytes": 209899
+    },
+    {
+      "file": "yua-0040_picx.zhimg.com_979efdd5.jpg",
+      "status": "ok",
+      "width": 1108,
+      "height": 1429,
+      "aspect": 0.7754,
+      "dhash": 4543906845316029299,
+      "bytes": 118932
+    },
+    {
+      "file": "yua-0100_m.media-amazon.com_597480e9.jpg",
+      "status": "ok",
+      "width": 1055,
+      "height": 1500,
+      "aspect": 0.7033,
+      "dhash": 11030507892564353777,
+      "bytes": 172539
+    },
+    {
+      "file": "yua-0156_c-ssl.duitang.com_ca721b49.jpg",
+      "status": "ok",
+      "width": 1065,
+      "height": 1474,
+      "aspect": 0.7225,
+      "dhash": 2758396286446538572,
+      "bytes": 224503
+    },
+    {
+      "file": "yua-0045_d3lmgsai2rsy7d.cloudfront.net_f2aba982.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "aspect": 0.75,
+      "dhash": 6859960151194573849,
+      "bytes": 208153
+    },
+    {
+      "file": "yua-0143_i0.hdslb.com_8eded8a2.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "aspect": 0.75,
+      "dhash": 9760361723705865017,
+      "bytes": 138988
+    },
+    {
+      "file": "yua-0166_p2.itc.cn_138c37b3.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "aspect": 0.75,
+      "dhash": 14771471370701043954,
+      "bytes": 133315
+    },
+    {
+      "file": "yua-0007_i0.hdslb.com_5914a7de.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "aspect": 0.75,
+      "dhash": 1779116949031216082,
+      "bytes": 124728
+    },
+    {
+      "file": "yua-0003_i0.hdslb.com_1cbff48c.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1439,
+      "aspect": 0.7505,
+      "dhash": 14685050240529516483,
+      "bytes": 111161
+    },
+    {
+      "file": "yua-0001_i0.hdslb.com_44455b07.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1439,
+      "aspect": 0.7505,
+      "dhash": 11935448347732200920,
+      "bytes": 102137
+    },
+    {
+      "file": "yua-0080_nikkansports.com_f2979714.jpg",
+      "status": "ok",
+      "width": 1300,
+      "height": 1195,
+      "aspect": 1.0879,
+      "dhash": 634705514234206220,
+      "bytes": 133591
+    },
+    {
+      "file": "yua-0077_img-mdpr.freetls.fastly.net_79cbba86.webp",
+      "status": "ok",
+      "width": 1520,
+      "height": 1012,
+      "aspect": 1.502,
+      "dhash": 5101882052515076637,
+      "bytes": 90384
+    },
+    {
+      "file": "yua-0048_img-mdpr.freetls.fastly.net_81efd56b.webp",
+      "status": "ok",
+      "width": 1520,
+      "height": 1012,
+      "aspect": 1.502,
+      "dhash": 12951151396432768228,
+      "bytes": 86972
+    },
+    {
+      "file": "yua-0146_img-mdpr.freetls.fastly.net_366cf4ab.webp",
+      "status": "ok",
+      "width": 1520,
+      "height": 1012,
+      "aspect": 1.502,
+      "dhash": 12894625132143076326,
+      "bytes": 85664
+    },
+    {
+      "file": "yua-0087_bunshun.ismcdn.jp_beb77d21.jpg",
+      "status": "ok",
+      "width": 1500,
+      "height": 1000,
+      "aspect": 1.5,
+      "dhash": 7306514748778428028,
+      "bytes": 112471
+    },
+    {
+      "file": "yua-0042_i0.hdslb.com_87f8e53b.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1373,
+      "aspect": 0.7866,
+      "dhash": 11364240794527827333,
+      "bytes": 174394
+    },
+    {
+      "file": "yua-0097_n.sinaimg.cn_25ed31f0.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 5316667156499407398,
+      "bytes": 749185
+    },
+    {
+      "file": "yua-0120_n.sinaimg.cn_915ff02f.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 12804139947622188226,
+      "bytes": 517581
+    },
+    {
+      "file": "yua-0073_image.nima3.com_c466362a.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 10871017340448710204,
+      "bytes": 446483
+    },
+    {
+      "file": "yua-0116_n.sinaimg.cn_2650ed1c.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 1878959144647341335,
+      "bytes": 377064
+    },
+    {
+      "file": "yua-0114_n.sinaimg.cn_81816ac7.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 4062613884103496475,
+      "bytes": 376628
+    },
+    {
+      "file": "yua-0002_n.sinaimg.cn_a7643916.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 2049257456451668835,
+      "bytes": 352192
+    },
+    {
+      "file": "yua-0142_image.xb1.com_cf12d71b.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 821900224432058416,
+      "bytes": 339835
+    },
+    {
+      "file": "yua-0023_image.nima3.com_2fad181e.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 6513130664455122335,
+      "bytes": 333339
+    },
+    {
+      "file": "yua-0113_n.sinaimg.cn_ef882c4b.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 11410090839550794649,
+      "bytes": 331203
+    },
+    {
+      "file": "yua-0033_image.nima3.com_dab2ab73.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 14985643065349863800,
+      "bytes": 326308
+    },
+    {
+      "file": "yua-0083_image.xb1.com_8fd62bbc.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 13093480787009210092,
+      "bytes": 307508
+    },
+    {
+      "file": "yua-0071_image.nima3.com_f9c73d38.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 3259829034778308574,
+      "bytes": 304462
+    },
+    {
+      "file": "yua-0010_p8.itc.cn_755565df.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 18446687649890443155,
+      "bytes": 303847
+    },
+    {
+      "file": "yua-0026_image.xb1.com_dbcaa408.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 2167976556894949650,
+      "bytes": 291271
+    },
+    {
+      "file": "yua-0068_image.nima3.com_027e2336.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 6237218056957537244,
+      "bytes": 279713
+    },
+    {
+      "file": "yua-0016_image.nima3.com_37a72f1c.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 3695133229815462523,
+      "bytes": 276394
+    },
+    {
+      "file": "yua-0011_image.xb1.com_a8da092a.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 8315439624484847198,
+      "bytes": 269041
+    },
+    {
+      "file": "yua-0072_image.nima3.com_142ef703.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 7881626349835011587,
+      "bytes": 268595
+    },
+    {
+      "file": "yua-0029_image.xb1.com_1f0c94ec.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 1817546152498104078,
+      "bytes": 265081
+    },
+    {
+      "file": "yua-0017_image.xb1.com_06c4f9fc.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 511555930109305060,
+      "bytes": 262578
+    },
+    {
+      "file": "yua-0022_image.xb1.com_78a78fab.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 217064637496509478,
+      "bytes": 256651
+    },
+    {
+      "file": "yua-0006_image.xb1.com_74b1f954.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 7958556985172806274,
+      "bytes": 246431
+    },
+    {
+      "file": "yua-0037_pic1.zhimg.com_81a5af8f.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 5285022918758143725,
+      "bytes": 245512
+    },
+    {
+      "file": "yua-0047_i0.hdslb.com_59f6e93e.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 4375415146874948939,
+      "bytes": 231774
+    },
+    {
+      "file": "yua-0102_image.nima3.com_2ccecaf5.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 76898989376631075,
+      "bytes": 226578
+    },
+    {
+      "file": "yua-0106_p3.itc.cn_b4654850.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 1930298409706795301,
+      "bytes": 218595
+    },
+    {
+      "file": "yua-0015_image.xb1.com_c8495c39.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 5994911805109033229,
+      "bytes": 216414
+    },
+    {
+      "file": "yua-0031_image.xb1.com_8bab01b0.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 11197870359690065005,
+      "bytes": 206428
+    },
+    {
+      "file": "yua-0009_image.xb1.com_33cc5da6.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 10068674502047793923,
+      "bytes": 204090
+    },
+    {
+      "file": "yua-0151_i0.hdslb.com_69a7e1c9.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 17921200371767430684,
+      "bytes": 198503
+    },
+    {
+      "file": "yua-0019_image.xb1.com_ae5fd0ad.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 1835355929100317297,
+      "bytes": 190869
+    },
+    {
+      "file": "yua-0052_p2.itc.cn_35462465.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 1094990461987029912,
+      "bytes": 184018
+    },
+    {
+      "file": "yua-0051_na-beauty.com_3a19b536.webp",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 12065805777706098238,
+      "bytes": 182174
+    },
+    {
+      "file": "yua-0018_image.xb1.com_760a47de.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 8203862910828334220,
+      "bytes": 179403
+    },
+    {
+      "file": "yua-0078_img.ttshow.tw_b10dd206.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 16637081837727302342,
+      "bytes": 178100
+    },
+    {
+      "file": "yua-0138_instagrammernews.com_2686faa1.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 6947295868808696980,
+      "bytes": 175880
+    },
+    {
+      "file": "yua-0014_image.xb1.com_1fffd5dc.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 1095335003196070923,
+      "bytes": 155096
+    },
+    {
+      "file": "yua-0025_img.faacd.com_0abce296.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 794694402322017384,
+      "bytes": 149759
+    },
+    {
+      "file": "yua-0092_pic1.zhimg.com_f6e1de94.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 17872309966906706385,
+      "bytes": 146062
+    },
+    {
+      "file": "yua-0141_p3.itc.cn_d87398cf.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 16500226655771703334,
+      "bytes": 144932
+    },
+    {
+      "file": "yua-0008_image.nima3.com_ddb82342.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 15793530091559114398,
+      "bytes": 143258
+    },
+    {
+      "file": "yua-0004_image.nima3.com_3ce56e0c.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 16355307880554870383,
+      "bytes": 143151
+    },
+    {
+      "file": "yua-0131_p1.itc.cn_ffe5da4e.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 2763478107916661232,
+      "bytes": 142412
+    },
+    {
+      "file": "yua-0061_p0.itc.cn_45579c5a.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 5328236522062317522,
+      "bytes": 132626
+    },
+    {
+      "file": "yua-0060_p7.itc.cn_25991a42.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 15646950301547196657,
+      "bytes": 124919
+    },
+    {
+      "file": "yua-0049_i0.hdslb.com_721bcab9.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 1235127780158920792,
+      "bytes": 122455
+    },
+    {
+      "file": "yua-0159_c-ssl.duitang.com_931fbee7.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 16488471925882394776,
+      "bytes": 119891
+    },
+    {
+      "file": "yua-0024_i0.hdslb.com_de8be1e5.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 2179194723238628251,
+      "bytes": 118542
+    },
+    {
+      "file": "yua-0086_instagrammernews.com_5196c104.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 3560493467338761766,
+      "bytes": 112751
+    },
+    {
+      "file": "yua-0154_instagrammernews.com_13f459c4.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 1715254963374269958,
+      "bytes": 96373
+    },
+    {
+      "file": "yua-0084_instagrammernews.com_4716a576.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 7193332146971849627,
+      "bytes": 84529
+    },
+    {
+      "file": "yua-0107_ignewsimg.s3.ap-northeast-1.wasabisys.com_36b4afd6.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 14250198909464628041,
+      "bytes": 81827
+    },
+    {
+      "file": "yua-0035_ignewsimg.s3.ap-northeast-1.wasabisys.com_253d6cd7.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 1617207252087264437,
+      "bytes": 68954
+    },
+    {
+      "file": "yua-0121_ignewsimg.s3.ap-northeast-1.wasabisys.com_62026a39.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 15625938090908487762,
+      "bytes": 64857
+    },
+    {
+      "file": "yua-0148_ignewsimg.s3.ap-northeast-1.wasabisys.com_2c1cf16c.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 3565100946972011748,
+      "bytes": 64776
+    },
+    {
+      "file": "yua-0171_ignewsimg.s3.ap-northeast-1.wasabisys.com_089f79be.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 2304688310688716888,
+      "bytes": 61674
+    },
+    {
+      "file": "yua-0172_ignewsimg.s3.ap-northeast-1.wasabisys.com_60bafef9.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1349,
+      "aspect": 0.8006,
+      "dhash": 16629227918019044540,
+      "bytes": 235775
+    },
+    {
+      "file": "yua-0039_i0.hdslb.com_42107b9a.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1349,
+      "aspect": 0.8006,
+      "dhash": 4766392336538902327,
+      "bytes": 189317
+    },
+    {
+      "file": "yua-0050_i0.hdslb.com_d56dd1e5.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1349,
+      "aspect": 0.8006,
+      "dhash": 947204034598487328,
+      "bytes": 158900
+    },
+    {
+      "file": "yua-0145_image.xb1.com_4a1341b4.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1348,
+      "aspect": 0.8012,
+      "dhash": 1097022799082212556,
+      "bytes": 289886
+    },
+    {
+      "file": "yua-0013_image.xb1.com_8b750a9b.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1347,
+      "aspect": 0.8018,
+      "dhash": 16468552821816762255,
+      "bytes": 274368
+    },
+    {
+      "file": "yua-0122_image.xb1.com_1f73d9c9.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1347,
+      "aspect": 0.8018,
+      "dhash": 8115747030747508452,
+      "bytes": 237049
+    },
+    {
+      "file": "yua-0041_i0.hdslb.com_32112c47.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1347,
+      "aspect": 0.8018,
+      "dhash": 2625680120140373657,
+      "bytes": 137094
+    },
+    {
+      "file": "yua-0095_pic1.zhimg.com_7cd61e1e.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1342,
+      "aspect": 0.8048,
+      "dhash": 16027860896654291192,
+      "bytes": 239295
+    },
+    {
+      "file": "yua-0085_pic1.zhimg.com_3743fa00.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1341,
+      "aspect": 0.8054,
+      "dhash": 6686889528355309624,
+      "bytes": 220290
+    },
+    {
+      "file": "yua-0168_c-ssl.duitang.com_648d4403.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1287,
+      "aspect": 0.8392,
+      "dhash": 7486552450474427596,
+      "bytes": 178045
+    },
+    {
+      "file": "yua-0064_pic4.zhimg.com_93fee4c8.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1287,
+      "aspect": 0.8392,
+      "dhash": 922266599783537690,
+      "bytes": 125267
+    },
+    {
+      "file": "yua-0103_pic2.zhimg.com_364ae844.jpg",
+      "status": "ok",
+      "width": 1200,
+      "height": 1150,
+      "aspect": 1.0435,
+      "dhash": 9666592157939905712,
+      "bytes": 137104
+    },
+    {
+      "file": "yua-0070_img.xwbo.com_12e3e9d0.jpg",
+      "status": "ok",
+      "width": 1126,
+      "height": 1200,
+      "aspect": 0.9383,
+      "dhash": 1396508767442510611,
+      "bytes": 135650
+    },
+    {
+      "file": "yua-0028_image.nima3.com_3d00d98b.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1250,
+      "aspect": 0.864,
+      "dhash": 14398795155099239969,
+      "bytes": 247923
+    },
+    {
+      "file": "yua-0005_image.nima3.com_824e89d5.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1250,
+      "aspect": 0.864,
+      "dhash": 16997679469094060865,
+      "bytes": 244097
+    },
+    {
+      "file": "yua-0012_image.xb1.com_0c47c20d.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1250,
+      "aspect": 0.864,
+      "dhash": 1090277345819695886,
+      "bytes": 144833
+    },
+    {
+      "file": "yua-0115_n.sinaimg.cn_9e7694de.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1226,
+      "aspect": 0.8809,
+      "dhash": 8246886058817542351,
+      "bytes": 393632
+    },
+    {
+      "file": "yua-0170_i0.hdslb.com_cfa8e5c3.jpg",
+      "status": "ok",
+      "width": 1024,
+      "height": 1279,
+      "aspect": 0.8006,
+      "dhash": 583538682634132055,
+      "bytes": 165845
+    },
+    {
+      "file": "yua-0069_picx.zhimg.com_e4693275.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1210,
+      "aspect": 0.8926,
+      "dhash": 4677208119020934854,
+      "bytes": 91455
+    },
+    {
+      "file": "yua-0136_nikkansports.com_196f7116.jpg",
+      "status": "ok",
+      "width": 1300,
+      "height": 1001,
+      "aspect": 1.2987,
+      "dhash": 13219025781387282254,
+      "bytes": 170035
+    }
+  ],
+  "dupes": [
+    {
+      "file": "yua-0021_i0.hdslb.com_67a19753.jpg",
+      "status": "ok",
+      "width": 1930,
+      "height": 2576,
+      "aspect": 0.7492,
+      "dhash": 8382450773117696468,
+      "bytes": 514314,
+      "duplicate_of": "yua-0001_i0.hdslb.com_67a19753.jpg"
+    },
+    {
+      "file": "yua-0011_anigala-rew.jp_cc3604b1.jpg",
+      "status": "ok",
+      "width": 1707,
+      "height": 2560,
+      "aspect": 0.6668,
+      "dhash": 1689918331303937152,
+      "bytes": 356921,
+      "duplicate_of": "yua-0021_p.potaufeu.asahi.com_0f603584.webp"
+    },
+    {
+      "file": "yua-0035_img-mdpr.freetls.fastly.net_0ed824fd.webp",
+      "status": "ok",
+      "width": 1520,
+      "height": 2280,
+      "aspect": 0.6667,
+      "dhash": 11221964753744879278,
+      "bytes": 115686,
+      "duplicate_of": "yua-0029_img-mdpr.freetls.fastly.net_b07263fb.jpg"
+    },
+    {
+      "file": "yua-0054_ttfhk.com_fa716aac.jpg",
+      "status": "ok",
+      "width": 2048,
+      "height": 1366,
+      "aspect": 1.4993,
+      "dhash": 1084544265010349327,
+      "bytes": 330185,
+      "duplicate_of": "yua-0003_ttfhk.com_fa716aac.jpg"
+    },
+    {
+      "file": "yua-0047_picx.zhimg.com_94a467b8.jpg",
+      "status": "ok",
+      "width": 1440,
+      "height": 1921,
+      "aspect": 0.7496,
+      "dhash": 17832417487036730758,
+      "bytes": 245029,
+      "duplicate_of": "yua-0019_picx.zhimg.com_47140fd9.jpg"
+    },
+    {
+      "file": "yua-0028_pic2.zhimg.com_119fc9c7.jpg",
+      "status": "ok",
+      "width": 1440,
+      "height": 1918,
+      "aspect": 0.7508,
+      "dhash": 8204597714047829505,
+      "bytes": 233619,
+      "duplicate_of": "yua-0003_pic2.zhimg.com_3de97af2.jpg"
+    },
+    {
+      "file": "yua-0037_pic3.zhimg.com_5cdff766.jpg",
+      "status": "ok",
+      "width": 1440,
+      "height": 1801,
+      "aspect": 0.7996,
+      "dhash": 17426921598996991941,
+      "bytes": 253403,
+      "duplicate_of": "yua-0094_pic3.zhimg.com_f8016dd0.jpg"
+    },
+    {
+      "file": "yua-0023_pic4.zhimg.com_8963c70c.jpg",
+      "status": "ok",
+      "width": 1440,
+      "height": 1747,
+      "aspect": 0.8243,
+      "dhash": 13546705415045638,
+      "bytes": 191753,
+      "duplicate_of": "yua-0008_pic4.zhimg.com_a49d4c84.jpg"
+    },
+    {
+      "file": "yua-0044_thetv.jp_0f76799d.webp",
+      "status": "ok",
+      "width": 1284,
+      "height": 1926,
+      "aspect": 0.6667,
+      "dhash": 12866377924047476530,
+      "bytes": 74710,
+      "duplicate_of": "yua-0002_thetv.jp_0f76799d.webp"
+    },
+    {
+      "file": "yua-0026_nikkansports.com_713aea0b.jpg",
+      "status": "ok",
+      "width": 1300,
+      "height": 1824,
+      "aspect": 0.7127,
+      "dhash": 12774826946358109775,
+      "bytes": 262419,
+      "duplicate_of": "yua-0004_store.tsite.jp_3e5daad9.jpg"
+    },
+    {
+      "file": "yua-0009_news-postseven.com_9e358ffd.webp",
+      "status": "ok",
+      "width": 1200,
+      "height": 1800,
+      "aspect": 0.6667,
+      "dhash": 1689917231792309376,
+      "bytes": 123280,
+      "duplicate_of": "yua-0021_p.potaufeu.asahi.com_0f603584.webp"
+    },
+    {
+      "file": "yua-0027_nikkansports.com_2483156f.jpg",
+      "status": "ok",
+      "width": 1146,
+      "height": 1719,
+      "aspect": 0.6667,
+      "dhash": 3231142945115884120,
+      "bytes": 350626,
+      "duplicate_of": "yua-0045_img-mdpr.freetls.fastly.net_f02c6c74.webp"
+    },
+    {
+      "file": "yua-0123_images.entamenext.com_5b739377.jpg",
+      "status": "ok",
+      "width": 1178,
+      "height": 1570,
+      "aspect": 0.7503,
+      "dhash": 893063805295714788,
+      "bytes": 191072,
+      "duplicate_of": "yua-0031_pica.zhimg.com_28279ddb.jpg"
+    },
+    {
+      "file": "yua-0081_img-mdpr.freetls.fastly.net_14c12b63.webp",
+      "status": "ok",
+      "width": 1065,
+      "height": 1600,
+      "aspect": 0.6656,
+      "dhash": 8761864991643106291,
+      "bytes": 170614,
+      "duplicate_of": "yua-0090_img-mdpr.freetls.fastly.net_9e66354b.jpg"
+    },
+    {
+      "file": "yua-0055_img-mdpr.freetls.fastly.net_64ec59c8.webp",
+      "status": "ok",
+      "width": 1065,
+      "height": 1600,
+      "aspect": 0.6656,
+      "dhash": 10218332328364264267,
+      "bytes": 130628,
+      "duplicate_of": "yua-0105_img-mdpr.freetls.fastly.net_35e31b9e.jpg"
+    },
+    {
+      "file": "yua-0101_m.media-amazon.com_b46768ba.jpg",
+      "status": "ok",
+      "width": 1100,
+      "height": 1543,
+      "aspect": 0.7129,
+      "dhash": 12774756577613932111,
+      "bytes": 161669,
+      "duplicate_of": "yua-0004_store.tsite.jp_3e5daad9.jpg"
+    },
+    {
+      "file": "yua-0067_pic1.zhimg.com_baa3fb07.jpg",
+      "status": "ok",
+      "width": 1128,
+      "height": 1504,
+      "aspect": 0.75,
+      "dhash": 8984742964992099873,
+      "bytes": 193773,
+      "duplicate_of": "yua-0096_c-ssl.duitang.com_c46c3165.jpg"
+    },
+    {
+      "file": "yua-0032_img-mdpr.freetls.fastly.net_bfe7579d.jpg",
+      "status": "ok",
+      "width": 1065,
+      "height": 1504,
+      "aspect": 0.7081,
+      "dhash": 1745242131132393778,
+      "bytes": 136974,
+      "duplicate_of": "yua-0010_images.entamenext.com_2925e922.jpg"
+    },
+    {
+      "file": "yua-0165_p3.itc.cn_1fad6555.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "aspect": 0.75,
+      "dhash": 13890164327590783384,
+      "bytes": 131803,
+      "duplicate_of": "yua-0074_pic3.zhimg.com_ca2b7889.jpg"
+    },
+    {
+      "file": "yua-0149_img-mdpr.freetls.fastly.net_b833a19c.webp",
+      "status": "ok",
+      "width": 1520,
+      "height": 1012,
+      "aspect": 1.502,
+      "dhash": 7237385257680581425,
+      "bytes": 91790,
+      "duplicate_of": "yua-0147_img-mdpr.freetls.fastly.net_acc24a0d.jpg"
+    },
+    {
+      "file": "yua-0053_img-mdpr.freetls.fastly.net_198416df.webp",
+      "status": "ok",
+      "width": 1520,
+      "height": 1012,
+      "aspect": 1.502,
+      "dhash": 4643238751242236815,
+      "bytes": 84610,
+      "duplicate_of": "yua-0065_img-mdpr.freetls.fastly.net_02d7ce43.jpg"
+    },
+    {
+      "file": "yua-0046_img-mdpr.freetls.fastly.net_a872b014.webp",
+      "status": "ok",
+      "width": 1520,
+      "height": 1012,
+      "aspect": 1.502,
+      "dhash": 3653231207282521905,
+      "bytes": 81342,
+      "duplicate_of": "yua-0125_img-mdpr.freetls.fastly.net_be9e7481.jpg"
+    },
+    {
+      "file": "yua-0153_instagrammernews.com_94694d51.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1351,
+      "aspect": 0.7994,
+      "dhash": 3570896996973403035,
+      "bytes": 124434,
+      "duplicate_of": "yua-0057_c-ssl.duitang.com_504b9e17.jpg"
+    },
+    {
+      "file": "yua-0164_5b0988e595225.cdn.sohucs.com_c421ca53.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 5316667156499407398,
+      "bytes": 414385,
+      "duplicate_of": "yua-0097_n.sinaimg.cn_25ed31f0.jpg"
+    },
+    {
+      "file": "yua-0020_image.xb1.com_d6f7fe04.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 74744866090454795,
+      "bytes": 237848,
+      "duplicate_of": "yua-0137_images.entamenext.com_2ddc0037.jpg"
+    },
+    {
+      "file": "yua-0036_i0.hdslb.com_0a00c884.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 76898989376631075,
+      "bytes": 143735,
+      "duplicate_of": "yua-0102_image.nima3.com_2ccecaf5.jpg"
+    },
+    {
+      "file": "yua-0091_instagrammernews.com_46e64c7c.jpg",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "aspect": 0.8,
+      "dhash": 15646950301547196657,
+      "bytes": 74808,
+      "duplicate_of": "yua-0060_p7.itc.cn_25991a42.jpg"
+    }
+  ]
+}

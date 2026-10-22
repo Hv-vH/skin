@@ -1,0 +1,5 @@
+# rosy-cream skin bundle patch: inserts its public dsh.client entry into the web plugin roster.
+# Mutual exclusion between skins is managed by the skin manager (home/profile patch rows).
+- insert:
+    - id: ui-skin-rosy-cream
+      name: 'dsh-client-ui-skin-rosy-cream'

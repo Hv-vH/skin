@@ -1,0 +1,1295 @@
+{
+  "subject": "lusi",
+  "tier": "raw",
+  "scanned": 142,
+  "kept": 138,
+  "duplicates": 4,
+  "broken": 0,
+  "threshold": 6,
+  "items": [
+    {
+      "file": "lusi-0059_oimg1.selfimg.com.cn_cb560c87.jpg",
+      "status": "ok",
+      "width": 8117,
+      "height": 10823,
+      "aspect": 0.75,
+      "dhash": 4128935438625705518,
+      "bytes": 4578733
+    },
+    {
+      "file": "lusi-0029_p7.itc.cn_ced9ab9b.jpg",
+      "status": "ok",
+      "width": 6720,
+      "height": 4480,
+      "aspect": 1.5,
+      "dhash": 9261843707587654201,
+      "bytes": 724004
+    },
+    {
+      "file": "lusi-0035_p3.itc.cn_74fc9f46.jpg",
+      "status": "ok",
+      "width": 6720,
+      "height": 4480,
+      "aspect": 1.5,
+      "dhash": 1164194827913114547,
+      "bytes": 592270
+    },
+    {
+      "file": "lusi-0040_p8.itc.cn_59fcf453.jpg",
+      "status": "ok",
+      "width": 6720,
+      "height": 4480,
+      "aspect": 1.5,
+      "dhash": 1155223113344187315,
+      "bytes": 542393
+    },
+    {
+      "file": "lusi-0126_q7.itc.cn_fe0328ce.webp",
+      "status": "ok",
+      "width": 3335,
+      "height": 5000,
+      "aspect": 0.667,
+      "dhash": 1084747220738718489,
+      "bytes": 264330
+    },
+    {
+      "file": "lusi-0063_q8.itc.cn_8c8f3aa3.webp",
+      "status": "ok",
+      "width": 5000,
+      "height": 3335,
+      "aspect": 1.4993,
+      "dhash": 1665535936674925592,
+      "bytes": 228146
+    },
+    {
+      "file": "lusi-0061_q1.itc.cn_fe8b6346.webp",
+      "status": "ok",
+      "width": 3269,
+      "height": 4901,
+      "aspect": 0.667,
+      "dhash": 3522631319997566156,
+      "bytes": 349674
+    },
+    {
+      "file": "lusi-0137_p7.itc.cn_bfa3d067.jpg",
+      "status": "ok",
+      "width": 3074,
+      "height": 4608,
+      "aspect": 0.6671,
+      "dhash": 3192029992016094067,
+      "bytes": 941748
+    },
+    {
+      "file": "lusi-0103_p9.itc.cn_baa9c2c0.jpg",
+      "status": "ok",
+      "width": 3024,
+      "height": 4032,
+      "aspect": 0.75,
+      "dhash": 5083467874860206963,
+      "bytes": 1577560
+    },
+    {
+      "file": "lusi-0108_p7.itc.cn_f143ec50.jpg",
+      "status": "ok",
+      "width": 3024,
+      "height": 4032,
+      "aspect": 0.75,
+      "dhash": 4831097650248291959,
+      "bytes": 802550
+    },
+    {
+      "file": "lusi-0099_p5.itc.cn_e8471243.jpg",
+      "status": "ok",
+      "width": 3024,
+      "height": 4032,
+      "aspect": 0.75,
+      "dhash": 4831097649548371695,
+      "bytes": 773863
+    },
+    {
+      "file": "lusi-0043_mnmx.com.cn_b1b55ef5.jpg",
+      "status": "ok",
+      "width": 2828,
+      "height": 4239,
+      "aspect": 0.6671,
+      "dhash": 10252523844734029571,
+      "bytes": 657869
+    },
+    {
+      "file": "lusi-0123_p2.itc.cn_b2f9f057.jpg",
+      "status": "ok",
+      "width": 2775,
+      "height": 4162,
+      "aspect": 0.6667,
+      "dhash": 4702268816102655415,
+      "bytes": 4234138
+    },
+    {
+      "file": "lusi-0013_p0.itc.cn_ce0cecb1.jpg",
+      "status": "ok",
+      "width": 2775,
+      "height": 4162,
+      "aspect": 0.6667,
+      "dhash": 12980541972351314274,
+      "bytes": 3129115
+    },
+    {
+      "file": "lusi-0128_p0.itc.cn_90caef20.jpg",
+      "status": "ok",
+      "width": 2775,
+      "height": 4160,
+      "aspect": 0.6671,
+      "dhash": 15570957285770617671,
+      "bytes": 1197829
+    },
+    {
+      "file": "lusi-0142_p4.itc.cn_de8d1d16.jpg",
+      "status": "ok",
+      "width": 2775,
+      "height": 4160,
+      "aspect": 0.6671,
+      "dhash": 10150212615414005988,
+      "bytes": 1040801
+    },
+    {
+      "file": "lusi-0134_p3.itc.cn_18905a6b.jpg",
+      "status": "ok",
+      "width": 2775,
+      "height": 4160,
+      "aspect": 0.6671,
+      "dhash": 10352478016381860667,
+      "bytes": 924098
+    },
+    {
+      "file": "lusi-0124_p6.itc.cn_e1e87cb9.jpg",
+      "status": "ok",
+      "width": 2775,
+      "height": 4160,
+      "aspect": 0.6671,
+      "dhash": 278516143628711799,
+      "bytes": 849541
+    },
+    {
+      "file": "lusi-0140_p1.itc.cn_7b463488.jpg",
+      "status": "ok",
+      "width": 2774,
+      "height": 4161,
+      "aspect": 0.6667,
+      "dhash": 10269272878690263746,
+      "bytes": 3923458
+    },
+    {
+      "file": "lusi-0113_p0.itc.cn_e67ee2a8.jpg",
+      "status": "ok",
+      "width": 2883,
+      "height": 3844,
+      "aspect": 0.75,
+      "dhash": 16040780172202292528,
+      "bytes": 1764129
+    },
+    {
+      "file": "lusi-0039_p9.qhimg.com_3f837406.jpg",
+      "status": "ok",
+      "width": 3024,
+      "height": 3628,
+      "aspect": 0.8335,
+      "dhash": 8301113820271829827,
+      "bytes": 611260
+    },
+    {
+      "file": "lusi-0042_cdn2.ettoday.net_269a9383.jpg",
+      "status": "ok",
+      "width": 2651,
+      "height": 3975,
+      "aspect": 0.6669,
+      "dhash": 3073468475042909133,
+      "bytes": 1263970
+    },
+    {
+      "file": "lusi-0037_pic1.zhimg.com_0d932016.jpg",
+      "status": "ok",
+      "width": 3645,
+      "height": 2876,
+      "aspect": 1.2674,
+      "dhash": 16277642673199171302,
+      "bytes": 552941
+    },
+    {
+      "file": "lusi-0038_q5.itc.cn_87a5ff6c.webp",
+      "status": "ok",
+      "width": 2751,
+      "height": 3809,
+      "aspect": 0.7222,
+      "dhash": 5282483849181948268,
+      "bytes": 635650
+    },
+    {
+      "file": "lusi-0004_q7.itc.cn_1a9ff8f4.webp",
+      "status": "ok",
+      "width": 2751,
+      "height": 3809,
+      "aspect": 0.7222,
+      "dhash": 11109577795279264665,
+      "bytes": 369234
+    },
+    {
+      "file": "lusi-0066_q3.itc.cn_e4eadc6d.webp",
+      "status": "ok",
+      "width": 2751,
+      "height": 3808,
+      "aspect": 0.7224,
+      "dhash": 3253307693165978981,
+      "bytes": 419952
+    },
+    {
+      "file": "lusi-0110_p0.itc.cn_2b782968.jpg",
+      "status": "ok",
+      "width": 2556,
+      "height": 3412,
+      "aspect": 0.7491,
+      "dhash": 7134554061651453542,
+      "bytes": 2127376
+    },
+    {
+      "file": "lusi-0062_mnmx.com.cn_e52028ce.jpg",
+      "status": "ok",
+      "width": 2392,
+      "height": 3586,
+      "aspect": 0.667,
+      "dhash": 2179317756552019955,
+      "bytes": 916017
+    },
+    {
+      "file": "lusi-0033_x0.ifengimg.com_88d1f865.jpg",
+      "status": "ok",
+      "width": 2160,
+      "height": 3840,
+      "aspect": 0.5625,
+      "dhash": 3686139184878126999,
+      "bytes": 225009
+    },
+    {
+      "file": "lusi-0074_p3.itc.cn_0d62952a.jpg",
+      "status": "ok",
+      "width": 2292,
+      "height": 3490,
+      "aspect": 0.6567,
+      "dhash": 3695535693042050790,
+      "bytes": 2458736
+    },
+    {
+      "file": "lusi-0093_n.sinaimg.cn_4010625c.jpg",
+      "status": "ok",
+      "width": 1892,
+      "height": 4096,
+      "aspect": 0.4619,
+      "dhash": 1170935950792209018,
+      "bytes": 2045883
+    },
+    {
+      "file": "lusi-0096_n.sinaimg.cn_478aefe3.jpg",
+      "status": "ok",
+      "width": 1892,
+      "height": 4096,
+      "aspect": 0.4619,
+      "dhash": 3232489676926708427,
+      "bytes": 1618031
+    },
+    {
+      "file": "lusi-0095_n.sinaimg.cn_12c87fc8.jpg",
+      "status": "ok",
+      "width": 1890,
+      "height": 4096,
+      "aspect": 0.4614,
+      "dhash": 20321859487124763,
+      "bytes": 862528
+    },
+    {
+      "file": "lusi-0010_d.ifengimg.com_fae4ac61.jpg",
+      "status": "ok",
+      "width": 1909,
+      "height": 3395,
+      "aspect": 0.5623,
+      "dhash": 15892727614118170383,
+      "bytes": 1588800
+    },
+    {
+      "file": "lusi-0094_n.sinaimg.cn_47d35e7d.jpg",
+      "status": "ok",
+      "width": 1718,
+      "height": 3715,
+      "aspect": 0.4624,
+      "dhash": 11154251294534339358,
+      "bytes": 968988
+    },
+    {
+      "file": "lusi-0092_c-ssl.duitang.com_d646ac12.jpg",
+      "status": "ok",
+      "width": 1709,
+      "height": 3705,
+      "aspect": 0.4613,
+      "dhash": 4019607303870625340,
+      "bytes": 2330064
+    },
+    {
+      "file": "lusi-0069_n.sinaimg.cn_e648806c.jpg",
+      "status": "ok",
+      "width": 2048,
+      "height": 3073,
+      "aspect": 0.6664,
+      "dhash": 15769715573912910715,
+      "bytes": 598121
+    },
+    {
+      "file": "lusi-0027_n.sinaimg.cn_8c16223d.jpg",
+      "status": "ok",
+      "width": 2048,
+      "height": 3072,
+      "aspect": 0.6667,
+      "dhash": 8080636192360340893,
+      "bytes": 817344
+    },
+    {
+      "file": "lusi-0075_n.sinaimg.cn_8eff3bad.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 3000,
+      "aspect": 0.6667,
+      "dhash": 3392110088717880456,
+      "bytes": 1229339
+    },
+    {
+      "file": "lusi-0081_n.sinaimg.cn_b994ff7e.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 3000,
+      "aspect": 0.6667,
+      "dhash": 1816154403695947704,
+      "bytes": 1012197
+    },
+    {
+      "file": "lusi-0025_n.sinaimg.cn_540d5f72.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 3000,
+      "aspect": 0.6667,
+      "dhash": 12989242565252434249,
+      "bytes": 947804
+    },
+    {
+      "file": "lusi-0070_n.sinaimg.cn_9787820f.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 3000,
+      "aspect": 0.6667,
+      "dhash": 221577050996590150,
+      "bytes": 792020
+    },
+    {
+      "file": "lusi-0012_n.sinaimg.cn_080a75ba.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 3000,
+      "aspect": 0.6667,
+      "dhash": 5293518775985102876,
+      "bytes": 761612
+    },
+    {
+      "file": "lusi-0031_pic1.zhimg.com_12f6dc6e.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 3000,
+      "aspect": 0.6667,
+      "dhash": 3895348759900851727,
+      "bytes": 754902
+    },
+    {
+      "file": "lusi-0082_n.sinaimg.cn_0904e445.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 3000,
+      "aspect": 0.6667,
+      "dhash": 14634392721050539575,
+      "bytes": 614474
+    },
+    {
+      "file": "lusi-0072_p1.itc.cn_598d31c6.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 3000,
+      "aspect": 0.6667,
+      "dhash": 8029617482762047067,
+      "bytes": 602337
+    },
+    {
+      "file": "lusi-0139_p7.itc.cn_04ffc71b.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 3000,
+      "aspect": 0.6667,
+      "dhash": 16407041488718341061,
+      "bytes": 572932
+    },
+    {
+      "file": "lusi-0071_n.sinaimg.cn_32cfeec3.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 3000,
+      "aspect": 0.6667,
+      "dhash": 14396821962546294382,
+      "bytes": 480698
+    },
+    {
+      "file": "lusi-0023_q0.itc.cn_50368201.webp",
+      "status": "ok",
+      "width": 2000,
+      "height": 2999,
+      "aspect": 0.6669,
+      "dhash": 655561844205102886,
+      "bytes": 363156
+    },
+    {
+      "file": "lusi-0014_q9.itc.cn_95f9b918.webp",
+      "status": "ok",
+      "width": 2000,
+      "height": 2999,
+      "aspect": 0.6669,
+      "dhash": 434903335585194019,
+      "bytes": 85072
+    },
+    {
+      "file": "lusi-0080_c-ssl.duitang.com_077f1f06.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 2998,
+      "aspect": 0.6671,
+      "dhash": 1838987489138936779,
+      "bytes": 3947002
+    },
+    {
+      "file": "lusi-0135_n.sinaimg.cn_5a9ceed5.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 2835,
+      "aspect": 0.7055,
+      "dhash": 1083964067783984195,
+      "bytes": 926081
+    },
+    {
+      "file": "lusi-0076_q5.itc.cn_0ab938c8.webp",
+      "status": "ok",
+      "width": 2160,
+      "height": 2600,
+      "aspect": 0.8308,
+      "dhash": 1637965682374518438,
+      "bytes": 133452
+    },
+    {
+      "file": "lusi-0017_n.sinaimg.cn_ecd3a06a.jpg",
+      "status": "ok",
+      "width": 2048,
+      "height": 2731,
+      "aspect": 0.7499,
+      "dhash": 5242621582783324039,
+      "bytes": 687184
+    },
+    {
+      "file": "lusi-0079_n.sinaimg.cn_5ff1da7e.jpg",
+      "status": "ok",
+      "width": 2048,
+      "height": 2731,
+      "aspect": 0.7499,
+      "dhash": 13997972524906029353,
+      "bytes": 613375
+    },
+    {
+      "file": "lusi-0083_c-ssl.duitang.com_8db8ec4b.jpg",
+      "status": "ok",
+      "width": 1600,
+      "height": 3464,
+      "aspect": 0.4619,
+      "dhash": 5225407955135312744,
+      "bytes": 2061699
+    },
+    {
+      "file": "lusi-0132_p8.itc.cn_a4f01121.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 2762,
+      "aspect": 0.7241,
+      "dhash": 3574043419504616757,
+      "bytes": 778272
+    },
+    {
+      "file": "lusi-0138_p9.itc.cn_ecbefd88.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 2746,
+      "aspect": 0.7283,
+      "dhash": 6960340789529670451,
+      "bytes": 686622
+    },
+    {
+      "file": "lusi-0032_p9.qhimg.com_d6851b03.jpg",
+      "status": "ok",
+      "width": 1939,
+      "height": 2817,
+      "aspect": 0.6883,
+      "dhash": 6441351177975139484,
+      "bytes": 313553
+    },
+    {
+      "file": "lusi-0107_img.alicdn.com_a71b3e52.webp",
+      "status": "ok",
+      "width": 2316,
+      "height": 2316,
+      "aspect": 1.0,
+      "dhash": 10873071563284085484,
+      "bytes": 140466
+    },
+    {
+      "file": "lusi-0011_p1.itc.cn_43feb0f2.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 2668,
+      "aspect": 0.7496,
+      "dhash": 8892202689521476552,
+      "bytes": 309697
+    },
+    {
+      "file": "lusi-0104_n.sinaimg.cn_5be841f8.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 2667,
+      "aspect": 0.7499,
+      "dhash": 14432282553309865524,
+      "bytes": 1506432
+    },
+    {
+      "file": "lusi-0041_n.sinaimg.cn_ed418df5.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 2667,
+      "aspect": 0.7499,
+      "dhash": 54873165178218142,
+      "bytes": 1127330
+    },
+    {
+      "file": "lusi-0064_n.sinaimg.cn_2ac15543.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 2667,
+      "aspect": 0.7499,
+      "dhash": 3655217986612262080,
+      "bytes": 1077602
+    },
+    {
+      "file": "lusi-0098_n.sinaimg.cn_8bac1063.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 2667,
+      "aspect": 0.7499,
+      "dhash": 13343539142343255008,
+      "bytes": 841825
+    },
+    {
+      "file": "lusi-0109_n.sinaimg.cn_08e493e9.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 2667,
+      "aspect": 0.7499,
+      "dhash": 1152921534824208536,
+      "bytes": 656837
+    },
+    {
+      "file": "lusi-0136_p6.itc.cn_8c7bee43.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 2667,
+      "aspect": 0.7499,
+      "dhash": 16461346451416535280,
+      "bytes": 284828
+    },
+    {
+      "file": "lusi-0125_p8.itc.cn_8703246c.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 2667,
+      "aspect": 0.7499,
+      "dhash": 3564919077086110689,
+      "bytes": 278556
+    },
+    {
+      "file": "lusi-0118_p6.itc.cn_d5994ad4.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 2667,
+      "aspect": 0.7499,
+      "dhash": 9707124221778597429,
+      "bytes": 267936
+    },
+    {
+      "file": "lusi-0133_p6.itc.cn_ba352532.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 2667,
+      "aspect": 0.7499,
+      "dhash": 6780762430351661113,
+      "bytes": 264967
+    },
+    {
+      "file": "lusi-0131_p9.itc.cn_288b8313.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 2667,
+      "aspect": 0.7499,
+      "dhash": 13165726256709507634,
+      "bytes": 263620
+    },
+    {
+      "file": "lusi-0117_p0.itc.cn_f32d952e.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 2667,
+      "aspect": 0.7499,
+      "dhash": 5454971594958066675,
+      "bytes": 245104
+    },
+    {
+      "file": "lusi-0114_p7.itc.cn_d89a6e11.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 2667,
+      "aspect": 0.7499,
+      "dhash": 11230145356381739289,
+      "bytes": 235466
+    },
+    {
+      "file": "lusi-0130_p0.itc.cn_302f31cf.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 2667,
+      "aspect": 0.7499,
+      "dhash": 8319119544043253788,
+      "bytes": 233631
+    },
+    {
+      "file": "lusi-0116_p0.itc.cn_e4532517.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 2667,
+      "aspect": 0.7499,
+      "dhash": 3691172255621133219,
+      "bytes": 227040
+    },
+    {
+      "file": "lusi-0122_p0.itc.cn_56c780c6.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 2667,
+      "aspect": 0.7499,
+      "dhash": 15076974979566703201,
+      "bytes": 220871
+    },
+    {
+      "file": "lusi-0127_p9.itc.cn_2fa45653.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 2667,
+      "aspect": 0.7499,
+      "dhash": 15236706182272373715,
+      "bytes": 217136
+    },
+    {
+      "file": "lusi-0120_p7.itc.cn_d3db36d7.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 2667,
+      "aspect": 0.7499,
+      "dhash": 7481433158787819058,
+      "bytes": 203223
+    },
+    {
+      "file": "lusi-0005_p7.itc.cn_19803158.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 2667,
+      "aspect": 0.7499,
+      "dhash": 7682469421313900056,
+      "bytes": 201483
+    },
+    {
+      "file": "lusi-0129_p8.itc.cn_ea26e58e.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 2666,
+      "aspect": 0.7502,
+      "dhash": 17932823189116653197,
+      "bytes": 262680
+    },
+    {
+      "file": "lusi-0115_p1.itc.cn_bc76332a.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 2666,
+      "aspect": 0.7502,
+      "dhash": 3778198874744940390,
+      "bytes": 246981
+    },
+    {
+      "file": "lusi-0068_n.sinaimg.cn_58a9879b.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 2625,
+      "aspect": 0.7619,
+      "dhash": 3013843106439951476,
+      "bytes": 848626
+    },
+    {
+      "file": "lusi-0009_10wallpaper.com_10bf050e.jpg",
+      "status": "ok",
+      "width": 2880,
+      "height": 1800,
+      "aspect": 1.6,
+      "dhash": 1950910824705756943,
+      "bytes": 590243
+    },
+    {
+      "file": "lusi-0056_img.xingxiaoculture.com_3f09a35c.jpg",
+      "status": "ok",
+      "width": 1500,
+      "height": 2597,
+      "aspect": 0.5776,
+      "dhash": 10624356865378743893,
+      "bytes": 327781
+    },
+    {
+      "file": "lusi-0016_c-ssl.duitang.com_0e3fae3f.jpg",
+      "status": "ok",
+      "width": 1600,
+      "height": 2401,
+      "aspect": 0.6664,
+      "dhash": 12711776965839539652,
+      "bytes": 272724
+    },
+    {
+      "file": "lusi-0053_img.xingxiaoculture.com_232d2ea3.jpg",
+      "status": "ok",
+      "width": 1440,
+      "height": 2491,
+      "aspect": 0.5781,
+      "dhash": 5967441608858242982,
+      "bytes": 271812
+    },
+    {
+      "file": "lusi-0100_n.sinaimg.cn_10aed4bb.jpg",
+      "status": "ok",
+      "width": 1880,
+      "height": 1880,
+      "aspect": 1.0,
+      "dhash": 2970856891099183322,
+      "bytes": 391445
+    },
+    {
+      "file": "lusi-0097_c-ssl.duitang.com_3511bd76.jpg",
+      "status": "ok",
+      "width": 1242,
+      "height": 2688,
+      "aspect": 0.4621,
+      "dhash": 1085101040522903069,
+      "bytes": 1455934
+    },
+    {
+      "file": "lusi-0090_n.sinaimg.cn_c376cbf2.jpg",
+      "status": "ok",
+      "width": 1242,
+      "height": 2688,
+      "aspect": 0.4621,
+      "dhash": 7125206879416782125,
+      "bytes": 812926
+    },
+    {
+      "file": "lusi-0087_inews.gtimg.com_6cf9de0c.jpg",
+      "status": "ok",
+      "width": 1242,
+      "height": 2688,
+      "aspect": 0.4621,
+      "dhash": 4967708709871186503,
+      "bytes": 559343
+    },
+    {
+      "file": "lusi-0085_img.win3000.com_7a1b9a16.jpg",
+      "status": "ok",
+      "width": 1242,
+      "height": 2688,
+      "aspect": 0.4621,
+      "dhash": 2821286781006012975,
+      "bytes": 355935
+    },
+    {
+      "file": "lusi-0008_n.sinaimg.cn_6a150e6e.jpg",
+      "status": "ok",
+      "width": 1242,
+      "height": 2688,
+      "aspect": 0.4621,
+      "dhash": 6491419787903371143,
+      "bytes": 333057
+    },
+    {
+      "file": "lusi-0024_pic3.zhimg.com_f38c24e6.jpg",
+      "status": "ok",
+      "width": 1242,
+      "height": 2688,
+      "aspect": 0.4621,
+      "dhash": 8239842293695039375,
+      "bytes": 319869
+    },
+    {
+      "file": "lusi-0091_img.win3000.com_58ef80f5.jpg",
+      "status": "ok",
+      "width": 1242,
+      "height": 2688,
+      "aspect": 0.4621,
+      "dhash": 16780005309336983596,
+      "bytes": 312212
+    },
+    {
+      "file": "lusi-0084_inews.gtimg.com_fcd02393.jpg",
+      "status": "ok",
+      "width": 1242,
+      "height": 2688,
+      "aspect": 0.4621,
+      "dhash": 5413433200588367859,
+      "bytes": 263334
+    },
+    {
+      "file": "lusi-0089_pic4.zhimg.com_08b72a1c.jpg",
+      "status": "ok",
+      "width": 1242,
+      "height": 2688,
+      "aspect": 0.4621,
+      "dhash": 261208153035438118,
+      "bytes": 258015
+    },
+    {
+      "file": "lusi-0006_n.sinaimg.cn_9b477c00.jpg",
+      "status": "ok",
+      "width": 1242,
+      "height": 2688,
+      "aspect": 0.4621,
+      "dhash": 728457758315052254,
+      "bytes": 139912
+    },
+    {
+      "file": "lusi-0048_woah.my_30bf1adc.jpg",
+      "status": "ok",
+      "width": 1601,
+      "height": 2048,
+      "aspect": 0.7817,
+      "dhash": 3617351408223096715,
+      "bytes": 390247
+    },
+    {
+      "file": "lusi-0050_img.xingxiaoculture.com_c519343c.jpg",
+      "status": "ok",
+      "width": 1500,
+      "height": 2185,
+      "aspect": 0.6865,
+      "dhash": 7297684183913809715,
+      "bytes": 333172
+    },
+    {
+      "file": "lusi-0051_img.xingxiaoculture.com_bbce7812.jpg",
+      "status": "ok",
+      "width": 1499,
+      "height": 2181,
+      "aspect": 0.6873,
+      "dhash": 9744732354852177927,
+      "bytes": 245073
+    },
+    {
+      "file": "lusi-0018_img.xingxiaoculture.com_6afd37eb.jpg",
+      "status": "ok",
+      "width": 1500,
+      "height": 2175,
+      "aspect": 0.6897,
+      "dhash": 1311538444250320799,
+      "bytes": 203514
+    },
+    {
+      "file": "lusi-0001_p3.itc.cn_69541437.jpg",
+      "status": "ok",
+      "width": 1680,
+      "height": 1920,
+      "aspect": 0.875,
+      "dhash": 8163298537393392780,
+      "bytes": 214450
+    },
+    {
+      "file": "lusi-0111_n.sinaimg.cn_283bac44.jpg",
+      "status": "ok",
+      "width": 1885,
+      "height": 1701,
+      "aspect": 1.1082,
+      "dhash": 10095131705418101261,
+      "bytes": 602583
+    },
+    {
+      "file": "lusi-0047_woah.my_6cb6c2f7.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 1600,
+      "aspect": 1.25,
+      "dhash": 7166171735900876915,
+      "bytes": 229705
+    },
+    {
+      "file": "lusi-0044_img.xingxiaoculture.com_10b89826.jpg",
+      "status": "ok",
+      "width": 1499,
+      "height": 2089,
+      "aspect": 0.7176,
+      "dhash": 15408346164834153318,
+      "bytes": 218757
+    },
+    {
+      "file": "lusi-0058_hao6.qhimg.com_08476ba1.jpg",
+      "status": "ok",
+      "width": 1409,
+      "height": 2114,
+      "aspect": 0.6665,
+      "dhash": 64284952878134557,
+      "bytes": 862271
+    },
+    {
+      "file": "lusi-0057_hao6.qhimg.com_6ccda585.jpg",
+      "status": "ok",
+      "width": 1409,
+      "height": 2114,
+      "aspect": 0.6665,
+      "dhash": 5242436364563354049,
+      "bytes": 833230
+    },
+    {
+      "file": "lusi-0052_img.xingxiaoculture.com_07b6eaf4.jpg",
+      "status": "ok",
+      "width": 1499,
+      "height": 1941,
+      "aspect": 0.7723,
+      "dhash": 13355980603669012815,
+      "bytes": 390730
+    },
+    {
+      "file": "lusi-0054_img.xingxiaoculture.com_e3101aff.jpg",
+      "status": "ok",
+      "width": 1290,
+      "height": 2230,
+      "aspect": 0.5785,
+      "dhash": 6188459167361110499,
+      "bytes": 254193
+    },
+    {
+      "file": "lusi-0046_img.xingxiaoculture.com_8ba3936d.jpg",
+      "status": "ok",
+      "width": 1500,
+      "height": 1894,
+      "aspect": 0.792,
+      "dhash": 3130955463800353650,
+      "bytes": 235017
+    },
+    {
+      "file": "lusi-0055_img.xingxiaoculture.com_17b05f71.jpg",
+      "status": "ok",
+      "width": 1440,
+      "height": 1951,
+      "aspect": 0.7381,
+      "dhash": 958450447992973657,
+      "bytes": 273813
+    },
+    {
+      "file": "lusi-0026_n.sinaimg.cn_befdc652.jpg",
+      "status": "ok",
+      "width": 1366,
+      "height": 2048,
+      "aspect": 0.667,
+      "dhash": 12876407672048913998,
+      "bytes": 393306
+    },
+    {
+      "file": "lusi-0020_x0.ifengimg.com_4abc7c0b.jpg",
+      "status": "ok",
+      "width": 1366,
+      "height": 2048,
+      "aspect": 0.667,
+      "dhash": 12786505303687520626,
+      "bytes": 328580
+    },
+    {
+      "file": "lusi-0019_n.sinaimg.cn_00d1c095.jpg",
+      "status": "ok",
+      "width": 1242,
+      "height": 2207,
+      "aspect": 0.5628,
+      "dhash": 3704542089131734610,
+      "bytes": 1703161
+    },
+    {
+      "file": "lusi-0121_p7.itc.cn_8d2ae14f.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 1334,
+      "aspect": 1.4993,
+      "dhash": 3978815507571359035,
+      "bytes": 97989
+    },
+    {
+      "file": "lusi-0073_q8.itc.cn_3a554809.webp",
+      "status": "ok",
+      "width": 2000,
+      "height": 1334,
+      "aspect": 1.4993,
+      "dhash": 2839263460775676883,
+      "bytes": 49860
+    },
+    {
+      "file": "lusi-0106_n.sinaimg.cn_5f6483bb.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 1333,
+      "aspect": 1.5004,
+      "dhash": 10237583067284059573,
+      "bytes": 700576
+    },
+    {
+      "file": "lusi-0119_p6.itc.cn_c6d96085.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 1333,
+      "aspect": 1.5004,
+      "dhash": 1889039951700400923,
+      "bytes": 85244
+    },
+    {
+      "file": "lusi-0086_c-ssl.duitang.com_50cd5a10.jpg",
+      "status": "ok",
+      "width": 1206,
+      "height": 2144,
+      "aspect": 0.5625,
+      "dhash": 884754224269166361,
+      "bytes": 522186
+    },
+    {
+      "file": "lusi-0102_p3.itc.cn_08407784.jpg",
+      "status": "ok",
+      "width": 1440,
+      "height": 1794,
+      "aspect": 0.8027,
+      "dhash": 7233610896091962608,
+      "bytes": 391671
+    },
+    {
+      "file": "lusi-0034_n.sinaimg.cn_044e68fe.jpg",
+      "status": "ok",
+      "width": 1280,
+      "height": 1920,
+      "aspect": 0.6667,
+      "dhash": 10532068257544889289,
+      "bytes": 182983
+    },
+    {
+      "file": "lusi-0141_q6.itc.cn_f9842ca4.webp",
+      "status": "ok",
+      "width": 1280,
+      "height": 1860,
+      "aspect": 0.6882,
+      "dhash": 3551596890645385035,
+      "bytes": 67234
+    },
+    {
+      "file": "lusi-0049_img.xingxiaoculture.com_e453fb70.jpg",
+      "status": "ok",
+      "width": 1280,
+      "height": 1859,
+      "aspect": 0.6885,
+      "dhash": 10121615156848453211,
+      "bytes": 247529
+    },
+    {
+      "file": "lusi-0030_p0.qhimg.com_72a41d0f.jpg",
+      "status": "ok",
+      "width": 1280,
+      "height": 1859,
+      "aspect": 0.6885,
+      "dhash": 3898514490702827181,
+      "bytes": 163005
+    },
+    {
+      "file": "lusi-0007_up.deskcity.org_39376722.jpg",
+      "status": "ok",
+      "width": 1920,
+      "height": 1200,
+      "aspect": 1.6,
+      "dhash": 13599952490863541404,
+      "bytes": 686284
+    },
+    {
+      "file": "lusi-0015_up.deskcity.org_3c6f4251.jpg",
+      "status": "ok",
+      "width": 1920,
+      "height": 1200,
+      "aspect": 1.6,
+      "dhash": 16655211038126621635,
+      "bytes": 579891
+    },
+    {
+      "file": "lusi-0036_pic1.zhimg.com_5972ba0f.jpg",
+      "status": "ok",
+      "width": 1290,
+      "height": 1713,
+      "aspect": 0.7531,
+      "dhash": 13892140076735816805,
+      "bytes": 204727
+    },
+    {
+      "file": "lusi-0003_n.sinaimg.cn_c4c38915.jpg",
+      "status": "ok",
+      "width": 1280,
+      "height": 1706,
+      "aspect": 0.7503,
+      "dhash": 14937110960243362145,
+      "bytes": 510988
+    },
+    {
+      "file": "lusi-0105_n.sinaimg.cn_3aa2ebf4.jpg",
+      "status": "ok",
+      "width": 1280,
+      "height": 1706,
+      "aspect": 0.7503,
+      "dhash": 919618453101940053,
+      "bytes": 141889
+    },
+    {
+      "file": "lusi-0088_file.moyubuluo.com_88e9f6b7.webp",
+      "status": "ok",
+      "width": 1202,
+      "height": 1803,
+      "aspect": 0.6667,
+      "dhash": 3704608097680369261,
+      "bytes": 339222
+    },
+    {
+      "file": "lusi-0112_q5.itc.cn_83021eed.webp",
+      "status": "ok",
+      "width": 1802,
+      "height": 1200,
+      "aspect": 1.5017,
+      "dhash": 14296367158499676047,
+      "bytes": 60186
+    },
+    {
+      "file": "lusi-0078_p0.qhimg.com_0c8bff94.jpg",
+      "status": "ok",
+      "width": 1200,
+      "height": 1800,
+      "aspect": 0.6667,
+      "dhash": 3650494505140590230,
+      "bytes": 360242
+    },
+    {
+      "file": "lusi-0077_n.sinaimg.cn_6db9527c.jpg",
+      "status": "ok",
+      "width": 1280,
+      "height": 1632,
+      "aspect": 0.7843,
+      "dhash": 5491375896065717894,
+      "bytes": 1136696
+    },
+    {
+      "file": "lusi-0101_p9.qhimg.com_1e8319fe.jpg",
+      "status": "ok",
+      "width": 1242,
+      "height": 1655,
+      "aspect": 0.7505,
+      "dhash": 10561706806243946713,
+      "bytes": 271369
+    },
+    {
+      "file": "lusi-0045_img.alicdn.com_f8606c6f.webp",
+      "status": "ok",
+      "width": 1390,
+      "height": 1390,
+      "aspect": 1.0,
+      "dhash": 15919244797350300908,
+      "bytes": 141742
+    },
+    {
+      "file": "lusi-0028_c-ssl.duitang.com_e4ae7022.jpg",
+      "status": "ok",
+      "width": 1200,
+      "height": 1600,
+      "aspect": 0.75,
+      "dhash": 17594239499181332768,
+      "bytes": 1588001
+    },
+    {
+      "file": "lusi-0002_c-ssl.duitang.com_1640257a.jpg",
+      "status": "ok",
+      "width": 1200,
+      "height": 1600,
+      "aspect": 0.75,
+      "dhash": 5736631066382901150,
+      "bytes": 558203
+    },
+    {
+      "file": "lusi-0060_p0.qhimg.com_a383acc2.jpg",
+      "status": "ok",
+      "width": 1200,
+      "height": 1333,
+      "aspect": 0.9002,
+      "dhash": 12948871391468022642,
+      "bytes": 116085
+    }
+  ],
+  "dupes": [
+    {
+      "file": "lusi-0067_n.sinaimg.cn_f92f82a7.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 3000,
+      "aspect": 0.6667,
+      "dhash": 5293518775985102868,
+      "bytes": 725886,
+      "duplicate_of": "lusi-0012_n.sinaimg.cn_080a75ba.jpg"
+    },
+    {
+      "file": "lusi-0065_n.sinaimg.cn_c52fbd32.jpg",
+      "status": "ok",
+      "width": 2000,
+      "height": 2998,
+      "aspect": 0.6671,
+      "dhash": 10352478016381860667,
+      "bytes": 1089061,
+      "duplicate_of": "lusi-0134_p3.itc.cn_18905a6b.jpg"
+    },
+    {
+      "file": "lusi-0022_q0.itc.cn_e887dee9.webp",
+      "status": "ok",
+      "width": 1366,
+      "height": 2048,
+      "aspect": 0.667,
+      "dhash": 12876407672048913998,
+      "bytes": 101372,
+      "duplicate_of": "lusi-0026_n.sinaimg.cn_befdc652.jpg"
+    },
+    {
+      "file": "lusi-0021_file.moyubuluo.com_51006986.webp",
+      "status": "ok",
+      "width": 1202,
+      "height": 1604,
+      "aspect": 0.7494,
+      "dhash": 8892202689521476552,
+      "bytes": 376488,
+      "duplicate_of": "lusi-0011_p1.itc.cn_43feb0f2.jpg"
+    }
+  ]
+}
